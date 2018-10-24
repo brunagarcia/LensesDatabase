@@ -1,10 +1,48 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
+import React, { Component } from 'react'
 
-const SignIn = () => {
-  return (
-      <h1>Sign In</h1>
-  )
+export class SignIn extends Component {
+  state = {
+    email: '',
+    password: ''
+  }
+
+  handleChange = (e) => {
+    this.setState({
+      [e.target.id]:e.target.value
+    })
+  }
+
+  handleSubmit = (e) => {
+    e.preventDefault()
+    this.setState({
+      email:'',
+      password:''
+    })
+    
+  }
+
+  render() {
+    return (
+      <div className="container">
+        <form className="white" onSubmit={this.handleSubmit}>
+          <h2 className="grey-text">
+          Sign In
+          </h2>
+          <div className="input-field">
+            <label htmlFor="email">Email:</label>
+            <input type="email" id="email" onChange={this.handleChange} value={this.state.email}/>
+          </div>
+          <div className="input-field">
+            <label htmlFor="password">Password:</label>
+            <input type="password" id="password" onChange={this.handleChange} value={this.state.password}/>
+          </div>
+          <div className="input-field">
+            <button className="btn green lighten-2">Login</button>
+          </div>
+        </form>
+      </div>
+    )
+  }
 }
 
 export default SignIn

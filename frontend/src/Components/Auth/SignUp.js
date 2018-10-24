@@ -1,27 +1,58 @@
+import React, { Component } from 'react'
 
-import React from 'react'
-import { Link } from 'react-router-dom'
+export class SignUp extends Component {
+  state = {
+    email: '',
+    password: ''
+  }
 
-const Navbar = () => {
-  return (
-    <div>
-      <ul id="dropdownMenu" className="dropdown-content">
-        <li><a href="#!">Lenses</a></li>
-        <li className="divider"></li>
-        <li><a href="#!">SignIn</a></li>
-        <li><a href="#!">SignUp</a></li>
-      </ul>
-      <nav className="nav-wrapper grey darken-3">
-        <div className="container">
-          <Link to='/' className="brand-logo">Lenscyclopedia</Link>
+  handleChange = (e) => {
+    this.setState({
+      [e.target.id]:e.target.value
+    })
+  }
 
-          <ul className="right hide-on-med-and-down">
-          <li><a className="dropdown-trigger" href="#!" data-target="dropdownMenu">Menu<i className="material-icons right">arrow_drop_down</i></a></li>
-          </ul>
-        </div>
-      </nav>
-    </div>
-  )
+  handleSubmit = (e) => {
+    e.preventDefault()
+    this.setState({
+      email:'',
+      password:'', 
+      firstName: '',
+      lastName: ''
+    })
+    
+  }
+
+  render() {
+    return (
+      <div className="container">
+        <form className="white" onSubmit={this.handleSubmit}>
+          <h2 className="grey-text">
+          Sign Up
+          </h2>
+          <div className="input-field">
+            <label htmlFor="firstName">First Name:</label>
+            <input type="text" id="firstName" onChange={this.handleChange} value={this.state.firstName}/>
+          </div>
+          <div className="input-field">
+            <label htmlFor="lastName">Last Name:</label>
+            <input type="text" id="lastName" onChange={this.handleChange} value={this.state.lastName}/>
+          </div>
+          <div className="input-field">
+            <label htmlFor="email">Email:</label>
+            <input type="email" id="email" onChange={this.handleChange} value={this.state.email}/>
+          </div>
+          <div className="input-field">
+            <label htmlFor="password">Password:</label>
+            <input type="password" id="password" onChange={this.handleChange} value={this.state.password}/>
+          </div>
+          <div className="input-field">
+            <button className="btn green lighten-2">Sign Up</button>
+          </div>
+        </form>
+      </div>
+    )
+  }
 }
 
-export default Navbar
+export default SignUp
