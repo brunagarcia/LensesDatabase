@@ -9,7 +9,7 @@ const Navbar = () => {
     <div>
       <nav className="nav-wrapper grey darken-3">
         <div className="container">
-          <Link to='/' className="brand-logo">Lenscyclopedia</Link>
+          <Link to='/' className="brand-logo">Lens-yclopedia</Link>
           <SignInLinks></SignInLinks>
           {/* <SignOutLinks></SignOutLinks> */}
         </div>
