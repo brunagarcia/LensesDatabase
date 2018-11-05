@@ -7,7 +7,7 @@ const SignInLinks = () => {
         <div className="container">
           <ul id="dropdownMenu" className="dropdown-content">
             <li><NavLink to="/">Lenses</NavLink></li>
-            <li><NavLink to="/">Add Lens</NavLink></li>
+            <li><NavLink to="/addlens">Add Lens</NavLink></li>
             <li className="divider"></li >
             <li><NavLink to="/">Sign Out</NavLink></li>
           </ul>
