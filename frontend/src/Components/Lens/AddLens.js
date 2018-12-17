@@ -1,4 +1,6 @@
 import React, { Component } from 'react'
+import { connect } from 'react-redux'
+import { addLens } from '../../Store/Actions/lensActions'
 
 export class AddLens extends Component {
   state = {
@@ -35,32 +37,33 @@ export class AddLens extends Component {
 
   handleSubmit = (e) => {
     e.preventDefault()
-    console.log(this.state)
-    this.setState({
-      title: '',
-      titleImg:  '',
-      stretch: 0,
-      focusType:'',
-      tkLens: 0,
-      minFocus: 0,
-      avgPrice: 0,
-      epn: '',
-      weight: 0,
-      length: 0,
-      frontGlass: 0 ,
-      rearGlass: 0,
-      filterThreads: 0,
-      rearThreads: 0,
-      manufacturer: '',
-      alias: [],
-      review: '',
-      galleryLink: '',
-      galleryImg: '',
-      pros: [],
-      cons: [],
-      obs: [],
-      shotWith: []
-    })
+    // console.log(this.state)
+    // this.setState({
+    //   title: '',
+    //   titleImg:  '',
+    //   stretch: 0,
+    //   focusType:'',
+    //   tkLens: 0,
+    //   minFocus: 0,
+    //   avgPrice: 0,
+    //   epn: '',
+    //   weight: 0,
+    //   length: 0,
+    //   frontGlass: 0 ,
+    //   rearGlass: 0,
+    //   filterThreads: 0,
+    //   rearThreads: 0,
+    //   manufacturer: '',
+    //   alias: [],
+    //   review: '',
+    //   galleryLink: '',
+    //   galleryImg: '',
+    //   pros: [],
+    //   cons: [],
+    //   obs: [],
+    //   shotWith: []
+    // })
+    this.props.addLens(this.state)
   }
 
   render() {
@@ -190,4 +193,12 @@ export class AddLens extends Component {
   }
 }
 
-export default AddLens
+//Function dispatch
+const mapDispatchToProps = (dispatch) => {
+  return {
+    addLens: (lens) => dispatch(addLens(lens)) 
+  }
+
+}
+
+export default connect(null, mapDispatchToProps)(AddLens)
