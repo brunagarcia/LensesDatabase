@@ -106,8 +106,11 @@ const initState = {
 }
 
 const newLensReducer = (state = initState, action) => {
+  switch(action.type){
+    case 'ADD_LENS':
+    console.log('Added lens', action.lens)
+  }
   return state
-
 }
 
 export default newLensReducer
