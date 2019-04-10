@@ -1,0 +1,2459 @@
+{
+	"ed1e3da6-c866-4250-a845-80c42b4f77f4": {
+		"title": "Century 1.33x Anamorphic Converter WS-13",
+		"titleImg": "title.jpg",
+		"stretch": 1.33,
+		"focusType": "Fixed Focus",
+		"tkLens": 30,
+		"minFocus": 0.5,
+		"avgPrice": 1200,
+		"epn": "https://goo.gl/gPPyNx",
+		"weight": 400,
+		"length": 50,
+		"frontGlass": 105,
+		"rearGlass": 45,
+		"filterThreads": 40,
+		"rearThreads": 58,
+		"manufacturer": "Century Precision Optics",
+		"alias": [
+			"Century Optics Full Zoom",
+			"Focusable Century",
+			"WS-13",
+			"Century Anamorphic Converter"
+		],
+		"review": "https://www.youtube.com/watch?v=klB_oO_M2Lk",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157674105305270",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Allows wide taking lenses",
+			"Simple built-in alignment mechanism",
+			"Modern, blue, sci-fi looking flares",
+			"Stretching 16:9 footage yields perfect 2.35:1 Cinemascope",
+			"Allows very close focus as well as using longer lenses"
+		],
+		"cons": [
+			"Poor image quality around the edges",
+			"Very rare"
+		],
+		"obs": [
+			["To Filter", "Century made a sunshade which can hold a 4.5in filter"],
+			["To Taking Lens", "Sony (WS13-SB) and Canon (WS13-MXL) can be easily modded for 52-58mm threads. The WS13-58 has a 58mm thread"],
+			["Lens Support", "None/Unknown"],
+			"The alignment screw is easy to lose"
+		],
+		"shotWith": [
+			["vimeo", "32084493"],
+			["youtube", "XMZhXR5kv-Y"],
+			["vimeo", "23966414"]
+		]
+	},
+
+	"3a0dc926-8ed0-4820-b06d-91a93290986c": {
+		"title": "Rathenower Rectimascop 48/2x",
+		"titleImg": "title.jpg",
+		"stretch": 2,
+		"focusType": "Double Focus",
+		"tkLens": 85,
+		"minFocus": 6,
+		"avgPrice": 200,
+		"epn": "https://goo.gl/GXdtsB",
+		"weight": 1080,
+		"length": 140,
+		"frontGlass": 61,
+		"rearGlass": 48,
+		"filterThreads": 0,
+		"rearThreads": 0,
+		"manufacturer": "Rathenower Optische Werke",
+		"alias": [
+			"Rectimascop",
+			"Rathenower"
+		],
+		"review": 0,
+		"galleryLink": 0,
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Good optical quality",
+			"Blue sci-fi flares",
+			"Affordable",
+			"Sharp wide open",
+			"Can be modded for improved performance"
+		],
+		"cons": [
+			"Heavy",
+			"Intense veiling glare when pointed at light source",
+			"Dual focus takes time to get acquainted",
+			"Low quality build"
+		],
+		"obs": [
+			["To Filter", "None/Unknown"],
+			["To Taking Lens", "None/Unknown"],
+			["Lens Support", "None/Unknown"],
+			"If you screw the back lens all the way in towards the front lens, the minimal focus distance shortens from 20ft to approximately 6ft - but you would also lose infinity.",
+			"Simple DIY Rehousing to infinity for Single Focus Optics by Step Rings:<br> http://diehroptic.ch/essays/2015/07/rathenower-rectimascope-for-rectilux/"
+		],
+		"shotWith": [
+			["vimeo", "93134203"],
+			["youtube", "6MJbBhiB0Lc"],
+			["youtube", "A2BH0Nvqkbs"],
+			["vimeo", "137754674"],
+			["vimeo", "144863460"],
+			["vimeo", "133918178"]
+		]
+	},
+
+	"b771825b-dc0a-4bd9-a689-231f6f4b9a79": {
+		"title": "Sankor 16-C",
+		"titleImg": "title.jpg",
+		"stretch": 2,
+		"focusType": "Double Focus",
+		"tkLens": 100,
+		"minFocus": 1.5,
+		"avgPrice": 350,
+		"epn": "https://goo.gl/Mf9TDB",
+		"weight": 180,
+		"length": "?",
+		"frontGlass": 45,
+		"rearGlass": 33,
+		"filterThreads": 0,
+		"rearThreads": 40.5,
+		"manufacturer": "Sankor",
+		"alias": [
+			"Singer 16-C",
+			"D.O. Industries 16-C",
+			"Eiki 16-C",
+			"Vidoscope 16-C",
+			"Gallo-Fox 16-C"
+		],
+		"review": 0,
+		"galleryLink": 0,
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Light build",
+			"Good flares",
+			"Easy to focus by following engravings"
+		],
+		"cons": [
+			"Vignettes easily when attaching filters"
+		],
+		"obs": [
+			["To Filter", "Hidden filter thread when you unscrew the front ring. Vid-Atlantic sells a replacement front ring enabling 58mm threads. An epoxied 62-XXmm step up ring also works well."],
+			["To Taking Lens", "40.5mm rear thread (can be attached with a XX-40.5mm step down ring). Redstan has a custom clamp for it."],
+			["Lens Support", "None/Unknown"]
+		],
+		"shotWith": [
+			["vimeo", "104711166"],
+			["youtube", "p3af8kO2KWg"],
+			["vimeo", "43782344"]
+		]
+	},
+
+	"44849793-f155-45b1-be30-b61e16e77a7f": {
+		"title": "Sankor 16-D",
+		"titleImg": "title.jpg",
+		"stretch": 2,
+		"focusType": "Double Focus",
+		"tkLens": 85,
+		"minFocus": 1.8,
+		"avgPrice": 450,
+		"epn": "https://goo.gl/B4ECkW",
+		"weight": 400,
+		"length": 115,
+		"frontGlass": 55,
+		"rearGlass": 49,
+		"filterThreads": 0,
+		"rearThreads": 0,
+		"manufacturer": "Sankor",
+		"alias": [
+			"Singer 16-D",
+			"Universcope 16-D",
+			"Eiki 16-D"
+		],
+		"review": "https://www.youtube.com/watch?v=_VIHfRa-HD8",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157693573236225",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Great build quality",
+			"Great blue/purple flares"
+		],
+		"cons": [
+			"Vignettes easily",
+			"Soft edges"
+		],
+		"obs": [
+			["To Filter", "Vid-Atlantic sells a replacement front ring enabling 72mm threads."],
+			["To Taking Lens", "Redstan custom clamp (52mm rear threads), Rapido Clamp."],
+			["Lens Support", "None/Unknown"],
+			"Due to lantanium coatings, flares are blueish and beautiful.",
+			"Can be easily aligned by setting marking on the lens (white line) facing up."
+		],
+		"shotWith": [
+			["vimeo", "103133152"],
+			["youtube", "lx1AooxwR3w"]
+		]
+	},
+
+	"6ad21c54-7f49-4437-9440-34911acf127a": {
+		"title": "SLR Magic Anamorphot 2.0x-50",
+		"titleImg": "title.jpg",
+		"stretch": 2,
+		"focusType": "Double Focus",
+		"tkLens": 80,
+		"minFocus": 1,
+		"avgPrice": 950,
+		"epn": "https://goo.gl/Zotc8W",
+		"weight": 480,
+		"length": 100,
+		"frontGlass": 65,
+		"rearGlass": 50,
+		"filterThreads": 77,
+		"rearThreads": 62,
+		"manufacturer": "SLR Magic",
+		"alias": [
+			"SLR Magic 2x",
+			"Anamorphot 2.0"
+		],
+		"review": "https://www.youtube.com/watch?v=U9xhBHUAKro",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/sets/72157673932589292",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Simple built-in alignment mechanism",
+			"Modern blue sci-fi looking flares",
+			"Strong anamorphic look with 2x stretch",
+			"Easy to get and fix with support from SLR Magic"
+		],
+		"cons": [
+			"Double focus without focus marks, relies heavily on the Rangefinder",
+			"Doesn’t work too well with fast apertures (f/4 or faster)"
+		],
+		"obs": [
+			["To Filter", "Standard 77mm threads."],
+			["To Taking Lens", "Standard 62mm threads."],
+			["Lens Support", "None/Unknown"],
+			"Locking mechanism is simple and effective."
+		],
+		"shotWith": []
+	},
+
+	"6e9d60a6-aa8f-4af3-b763-d66b3070ad3a": {
+		"title": "SLR Magic Anamorphot 1.33x-50",
+		"titleImg": "title.jpg",
+		"stretch": 1.33,
+		"focusType": "Double Focus",
+		"tkLens": 45,
+		"minFocus": 1,
+		"avgPrice": 750,
+		"epn": "https://goo.gl/RaCMuA",
+		"weight": 380,
+		"length": 50,
+		"frontGlass": 65,
+		"rearGlass": 50,
+		"filterThreads": 77,
+		"rearThreads": 62,
+		"manufacturer": "SLR Magic",
+		"alias": [
+			"SLR Magic 1.33x",
+			"Original Anamorphot"
+		],
+		"review": "https://www.youtube.com/watch?v=pDr_0rEyEC",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/sets/72157674105206970",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Simple built-in alignment mechanism",
+			"Modern blue sci-fi looking flares",
+			"Stretching 16:9 footage yields perfect 2.35:1 Cinemascope",
+			"Has a dial for near and normal focus, allowing for closer focus",
+			"Easy to get and fix with support from SLR Magic"
+		],
+		"cons": [
+			"Doesn’t allow for very wide taking lenses",
+			"Doesn’t work too well with fast apertures (f/2.8 or faster)",
+			"Doesn’t play along with longer lenses (80mm+ on Full Frame)"
+		],
+		"obs": [
+			["To Filter", "Standard 77mm threads."],
+			["To Taking Lens", "Standard 62mm threads."],
+			["Lens Support", "None/Unknown"],
+			"Version 1 has a screw for alignment lock, version 2, shipped as late-2015 is locked through a reverse ring at the rear."
+		],
+		"shotWith": []
+	},
+
+	"4f4bfb3b-cbab-44ee-a2f1-10f5db1d6cad": {
+		"title": "Soligor 1.33x Anamorphic Lens",
+		"titleImg": "title.jpg",
+		"stretch": 1.33,
+		"focusType": "Fixed Focus",
+		"tkLens": 35,
+		"minFocus": 3,
+		"avgPrice": 700,
+		"epn": "https://goo.gl/L61rPP",
+		"weight": 250,
+		"length": 50,
+		"frontGlass": 68,
+		"rearGlass": 50,
+		"filterThreads": 0,
+		"rearThreads": 58,
+		"manufacturer": "Soligor",
+		"alias": [
+			"Soligor"
+		],
+		"review": 0,
+		"galleryLink": 0,
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Allows wide taking lens",
+			"Fixed focus only requires focusing with the taking lens",
+			"Simple built-in alignment mechanism",
+			"Stretching 16:9 footage yields perfect 2.35:1 Cinemascope",
+			"Modern blue sci-fi-looking flares"
+		],
+		"cons": [
+			"Poor image quality with big apertures or longer lenses",
+			"Can’t focus properly without a big diopter",
+			"Requires the taking lens to be stopped down",
+			"Soft edges"
+		],
+		"obs": [
+			["To Filter", "Redstan clamp enables 72mm threads."],
+			["To Taking Lens", "Sony (DS-1609-SB) and Canon (DS-1609-GL) can be easily modded for 52mm threads. DS-1609-58 has a 58mm thread."],
+			["Lens Support", "Lens is light enough that it may not require lens support, depending on camera and taking lens.  Err on the side of caution."],
+			"Different from other Century/Optex 1.33 anamorphics, Soligor’s alignment locking mechanism is on the rear ring that tightens or loosens the rotation of the squeeze."
+		],
+		"shotWith": [
+			["vimeo", "40563967"],
+			["vimeo", "18212558"]
+		]
+	},
+
+	"a37baf0d-bf34-4793-ba34-1131aa4fc1a1": {
+		"title": "SUN Anamorphic Adaptor 16",
+		"titleImg": "title.jpg",
+		"stretch": 2,
+		"focusType": "Double Focus",
+		"tkLens": 100,
+		"minFocus": 1.5,
+		"avgPrice": 380,
+		"epn": "https://goo.gl/z9S2DR",
+		"weight": 310,
+		"length": "?",
+		"frontGlass": 45,
+		"rearGlass": 33,
+		"filterThreads": 0,
+		"rearThreads": 40.5,
+		"manufacturer": "SUN",
+		"alias": [
+			"SUN Anamorphic"
+		],
+		"review": 0,
+		"galleryLink": 0,
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Light",
+			"Good flares",
+			"Easy to focus by following focus engravings",
+			"Easy to modify for front filter threads"
+		],
+		"cons": [
+			"Front ring internal diameter adds to vignetting",
+			"A lot of chromatic aberration on the edges"
+		],
+		"obs": [
+			["To Filter", "The front of the lens body can be unscrewed and replaced or modified to be able to hold 58mm filters.<br>https://www.eoshd.com/comments/topic/583-sun-anamorphic-adapter-16/?page=2#entry32254 "],
+			["To Taking Lens", "Needs a rear clamp."],
+			["Lens Support", "None/Unknown"],
+			"The stretch factor varies depending on focusing distance from 2x at infinity to about 1.66x at 1.5m."
+		],
+		"shotWith": [
+			["vimeo", "65033445"],
+			["youtube", "vTok5IKC_Lw"]
+		]
+	},
+
+	"f9f127c1-1238-46a8-b2f1-7f5cc7147262": {
+		"title": "Apefoscope Anamorphic",
+		"titleImg": "title.jpg",
+		"stretch": 1.33,
+		"focusType": "Double Focus",
+		"tkLens": 50,
+		"minFocus": 0,
+		"avgPrice": 0,
+		"epn": "",
+		"weight": 133,
+		"length": 0,
+		"frontGlass": 74,
+		"rearGlass": 100,
+		"filterThreads": 0,
+		"rearThreads": 52,
+		"manufacturer": "Adriano Apefos",
+		"alias": [
+			"Apefoscope"
+		],
+		"review": 0,
+		"galleryLink": 0,
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"The 1.33 ratio works great with 16:9 video without any cropping",
+			"Very light and easy to mount to a lens or camera rig",
+			"Lens came with various coatings"
+		],
+		"cons": [
+			"The housing is plastic and hand-made",
+			"Focusing takes careful precision",
+			"Rare: Lens was only manufactured by one person for a short period"
+		],
+		"obs": [
+			["To Filter", "It can be clamped to a matte box from the front using a Vid-Atlantic Front Filter clamp."],
+			["To Taking Lens", "The 52mm rear thread can screw directly onto the taking lens."],
+			["Lens Support", "The lens is light enough that it does not require lens support."],
+			"The alignment screw is easy to lose",
+			"Adriano Apefos' original development thread is here: http://www.personal-view.com/talks/discussion/4560/apefos-scoperama-anamorphic-adapter-development-topic/p1"
+		],
+		"shotWith": [
+			["vimeo", "52515544"],
+			["vimeo", "56509466"]
+		]
+	},
+
+	"e8572af7-103a-47dc-9e3e-1560925a4291": {
+		"title": "Bell & Howell 16mm Filmorama",
+		"titleImg": "title.jpg",
+		"stretch": 2,
+		"focusType": "Double Focus",
+		"tkLens": 85,
+		"minFocus": 2,
+		"avgPrice": 0,
+		"epn": "https://goo.gl/oZn7xs",
+		"weight": 2000,
+		"length": 10,
+		"frontGlass": 58,
+		"rearGlass": 40,
+		"filterThreads": 0,
+		"rearThreads": "40.5",
+		"manufacturer": "Bell & Howell",
+		"alias": [
+			"Filmorama"
+		],
+		"review": 0,
+		"galleryLink": 0,
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Flares nicely (Single coated?)",
+			"Low chromatic aberration"
+		],
+		"cons": [
+			"Heavy",
+			"Fairly soft, even softer at edges"
+		],
+		"obs": [
+			["To Filter", "Gluing 62mm extension tube possible but dangerous as it would have to be glued to the retaining ring for the front element."],
+			["Bell & Howell Mounting Bracket (Throat Clamp). Too heavy to be trusted with a threaded clamp."],
+			["Lens Support", "None."]
+		],
+		"shotWith": [
+			["vimeo", "92182479"],
+			["vimeo", "92126908"],
+			["vimeo", "82899217"]
+		]
+	},
+
+	"17e4680b-bad7-486e-8eb4-95bde2e6b0cd": {
+		"title": "Bell & Howell Projection Anamorphic Lens",
+		"titleImg": "title.jpg",
+		"stretch": 2,
+		"focusType": "Single Focus",
+		"tkLens": 120,
+		"minFocus": 1.5,
+		"avgPrice": 250,
+		"epn": "https://goo.gl/6R5BEC",
+		"weight": 510,
+		"length": 0,
+		"frontGlass": 51,
+		"rearGlass": 41.5,
+		"filterThreads": 55,
+		"rearThreads": "Series 7 (VII)",
+		"manufacturer": "Bell & Howell",
+		"alias": [
+			"B&H",
+			"Bell & Howell",
+			"Long B&H"
+		],
+		"review": "https://www.youtube.com/watch?v=_S4rrTaAOGY",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157675191246066",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Abundant flares",
+			"Relatively small and light-weight",
+			"Adapters are readily available for the front & rear threads",
+			"Can be modded to reduce length of the focus throw (more info here: http://www.eoshd.com/comments/topic/8996-seeking-info-about-the-bh-projection-lens)"
+		],
+		"cons": [
+			"Huge focus throw (6-7 full rotations)",
+			"Internal barrel flares can be excessive"
+		],
+		"obs": [
+			["To Filter", "55mm thread."],
+			["To Taking Lens", "Series 7 thread."],
+			["Lens Support", "15mm rail lens supports or similar clamps/supports should be used, or the Antares 50mm finderscope clamp."],
+			"Set the taking lens to infinity and focusing with the anamorphic.",
+			"This lens is a great overall value for cameras with Micro Four Thirds sensors. Flare and character are pleasant. It can focus close, and affordable 55mm diopters are available for focusing closer.",
+			"The biggest drawback is the huge focus through, as 6-7 rotations is impractical for rack focus. There is a mod solution for reducing focus throw, but as with most mods, it carries the risk of damaging the lens. There are unresolved helicoid stability issues with this mod: http://www.eoshd.com/comments/topic/8996-seeking-info-about-the-bh-projection-lens/."
+		],
+		"shotWith": [
+			["vimeo", "77760358"],
+			["vimeo", "125860917"],
+			["vimeo", "82869056"],
+			["youtube", "watch?v=FjhGM74AGUM"],
+			["youtube", "watch?v=8pf7RiJv9HY"]
+		]
+	},
+
+	"892c3927-048f-4b8e-a9df-5bc354027fb0": {
+		"title": "Bolex Möller 8/19/1.5x",
+		"titleImg": "title.jpg",
+		"stretch": 1.5,
+		"focusType": "Double Focus",
+		"tkLens": 100,
+		"minFocus": 0.5,
+		"avgPrice": 800,
+		"epn": "https://goo.gl/7megd8",
+		"weight": 180,
+		"length": "?",
+		"frontGlass": 37,
+		"rearGlass": 20,
+		"filterThreads": 39,
+		"rearThreads": 24,
+		"manufacturer": "Möller",
+		"alias": [
+			"Baby Möller",
+			"Möller 19/1.5x"
+		],
+		"review": 0,
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157693573236395",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Very small and light",
+			"Outstanding image quality",
+			"Stunning deep blue flares",
+			"Sharp wide open"
+		],
+		"cons": [
+			"Its clamp is very hard to get, not many other mounting options",
+			"Difficult to uses on full frame cameras"
+		],
+		"obs": [
+			["To Filter", "39 mm front thread."],
+			["To Taking Lens", "24 mm rear thread, 0.5 pitch.  Tutorial for adapting the Möller 19/1.5x to BMCPP here: https://www.youtube.com/watch?v=tEi0qy5h9sM"],
+			["Lens Support", "None"],
+			"Made for 8mm cameras.",
+			"The Möller 19/1.5x version of this lens is optically identical to the Bolex-Möller version, but it changes the coatings to a neutral color, which affects lens flares.",
+			"Many people prefer it over Iscoramas."
+		],
+		"shotWith": [
+			["vimeo", "37044086"],
+			["vimeo", "69125109"]
+		]
+	},
+
+	"d52e574c-1425-487a-96d5-40ebe7e1358c": {
+		"title": "Bolex Möller 16/32/1.5x",
+		"titleImg": "title.jpg",
+		"stretch": 1.5,
+		"focusType": "Double Focus",
+		"tkLens": 55,
+		"minFocus": 1.5,
+		"avgPrice": 1800,
+		"epn": "https://goo.gl/pKdwdX",
+		"weight": 317,
+		"length": 0,
+		"frontGlass": 56,
+		"rearGlass": 31,
+		"filterThreads": 62,
+		"rearThreads": 39,
+		"manufacturer": "Möller",
+		"alias": [
+			"Möller 32/1.5x",
+			"Bolex Anamorphot"
+		],
+		"review": 0,
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157692805648924",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Very small and light",
+			"Outstanding image quality",
+			"Stunning deep blue flares",
+			"Sharp wide open"
+		],
+		"cons": [
+			"It’s clamp is very hard to get, not many other mounting options"
+		],
+		"obs": [
+			["To Filter", "62mm front threads."],
+			["To Taking Lens", "39 mm rear threads."],
+			["Lens Support", "None"],
+			"Made for 16mm cameras.",
+			"The Möller 32/1.5x version of this lens is almost identical to the Bolex-Möller version, just changing the coatings to neutral colors, which reflect neutral flares.",
+			"Many people prefer it over Iscoramas."
+		],
+		"shotWith": [
+			["vimeo", "129070427"],
+			["vimeo", "64893832"],
+			["vimeo", "82736569"],
+			["youtube", "watch?v=QoxN-Yxqtcw"]
+		]
+	},
+
+	"f1c230cc-55ce-4d59-b3c3-0805dd928852": {
+		"title": "Kowa Prominar Anamorphic-35 1.5x",
+		"titleImg": "title.jpg",
+		"stretch": 1.5,
+		"focusType": "Double Focus",
+		"tkLens": 70,
+		"minFocus": 1.5,
+		"avgPrice": 1600,
+		"epn": "https://goo.gl/AG5bCv",
+		"weight": 600,
+		"length": 0,
+		"frontGlass": 58,
+		"rearGlass": 42,
+		"filterThreads": 0,
+		"rearThreads": 0,
+		"manufacturer": "Kowa",
+		"alias": [
+			"Kowa PA C-35"
+		],
+		"review": 0,
+		"galleryLink": 0,
+		"galleryImg": "photo.jpg",
+		"pros": [],
+		"cons": [
+			"Extremely rare."
+		],
+		"obs": [
+			["To Filter", "Needs a front clamp."],
+			["To Taking Lens", "Needs a clamp."],
+			["Lens Support", "None"]
+		],
+		"shotWith": []
+	},
+
+	"8d2ecbf8-bf14-4f51-a35a-12b1f33b2423": {
+		"title": "Kowa Prominar 8/1.5x",
+		"titleImg": "title.jpg",
+		"stretch": 1.5,
+		"focusType": "Double Focus",
+		"tkLens": 80,
+		"minFocus": 0.2,
+		"avgPrice": "?",
+		"epn": "https://goo.gl/aV8a3U",
+		"weight": 161,
+		"length": 0,
+		"frontGlass": 35,
+		"rearGlass": 19,
+		"filterThreads": 0,
+		"rearThreads": 58,
+		"manufacturer": "Kowa",
+		"alias": [
+			"Baby Kowa",
+			"Kowa 8/1.5x"
+		],
+		"review": 0,
+		"galleryLink": 0,
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Small",
+			"Light",
+			"Nice flare and bokeh"
+		],
+		"cons": [
+			"soft wide open",
+			"Challenging to mount"
+		],
+		"obs": [
+			["To Filter", "Needs front clamp"],
+			["To Taking Lens", "Baby anamorphic clamp"],
+			["Lens Support", "None"],
+			"A -0.5 diopter is recommended at night when larger apertures are unavailable."
+		],
+		"shotWith": [
+			["vimeo", "102408411"]
+		]
+	},
+
+	"0ecbeb08-948a-4556-8290-403face6f1c8": {
+		"title": "Moller Anamorphot 19/1.5x 4M",
+		"titleImg": "title.jpg",
+		"stretch": 1.5,
+		"focusType": "Fixed Focus",
+		"tkLens": 100,
+		"minFocus": 4,
+		"avgPrice": 0,
+		"epn": "https://goo.gl/E7Riut",
+		"weight": 180,
+		"length": 0,
+		"frontGlass": 37,
+		"rearGlass": 20,
+		"filterThreads": 39,
+		"rearThreads": 24,
+		"manufacturer": "MÖLLER",
+		"alias": [
+			"Moller 1.5x/4m",
+			"Fixed Focus Moller"
+		],
+		"review": 0,
+		"galleryLink": 0,
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Compact",
+			"Light",
+			"Great Flare",
+			"Sharp wide open",
+			"Outstanding image quality"
+		],
+		"cons": [
+			"Unusable on full frame cameras",
+			"Requires diopters for closer focusing.",
+			"Difficult to mount."
+		],
+		"obs": [
+			["To Filter", "39 mm front thread."],
+			["To Taking Lens", "24 mm rear thread, 0.5 pitch.  Tutorial for adapting the Möller 19/1.5x to BMCPP here: https://www.youtube.com/watch?v=tEi0qy5h9sM"],
+			["Lens Support", "None"],
+			"Made for 8mm cameras.",
+			"Many Users prefer its image quality over Iscoramas."
+		],
+		"shotWith": [
+			["vimeo", "102408411"]
+		]
+	},
+
+	"800f273d-bd4b-4080-ab01-620fb5a347cd": {
+		"title": "Century Precision Optics 16:9 Ratio Converter DS-1609",
+		"titleImg": "title.jpg",
+		"stretch": 1.33,
+		"focusType": "Fixed Focus",
+		"tkLens": 35,
+		"minFocus": 3,
+		"avgPrice": 700,
+		"epn": "https://goo.gl/oqpsLa",
+		"weight": 250,
+		"length": 50,
+		"frontGlass": 68,
+		"rearGlass": 50,
+		"filterThreads": 0,
+		"rearThreads": 58,
+		"manufacturer": "Century Precision Optics",
+		"alias": [
+			"Century Optics",
+			"DS-1609",
+			"PD Anamorphic Adapter",
+			"Century Anamorphic"
+		],
+		"review": "https://www.youtube.com/watch?v=4b54MV9pyVk",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157675191663236",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Allows wide taking lens",
+			"Simple, built-in alignment mechanism",
+			"Modern blue sci-fi-looking flares",
+			"Stretching 16:9 footage yields perfect 2.35:1 Cinemascope"
+		],
+		"cons": [
+			"Poor image quality with big apertures or longer lenses",
+			"Can’t focus properly without diopters",
+			"Requires the taking lens to be stopped down",
+			"Mushy edges"
+		],
+		"obs": [
+			["To Filter", "Front clamp enables 72mm threads."],
+			["To Taking Lens", "Sony (DS-1609-SB) and Canon (DS-1609-GL) can be easily modded for 52 mm threads. DS-1609-58 has a 58mm thread."],
+			["Lens Support", "None"],
+			"The alignment lock screw is small and easy to lose."
+		],
+		"shotWith": [
+			["vimeo", "39908454"],
+			["vimeo", "52852080 "]
+		]
+	},
+
+	"f3fc3f82-1812-4804-8e8d-f4846d0203a9": {
+		"title": "Century Precision Optics Ratio Converter DS-1609-37",
+		"titleImg": "title.jpg",
+		"stretch": 1.33,
+		"focusType": "Fixed Focus",
+		"tkLens": 35,
+		"minFocus": 3,
+		"avgPrice": 650,
+		"epn": "https://goo.gl/oqpsLa",
+		"weight": 200,
+		"length": 50,
+		"frontGlass": 68,
+		"rearGlass": 33,
+		"filterThreads": 62,
+		"rearThreads": 37,
+		"manufacturer": "Century Precision Optics",
+		"alias": [
+			"Century Anamorphic",
+			"DS-1609-37"
+		],
+		"review": 0,
+		"galleryLink": 0,
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Light",
+			" Allows wide taking lens",
+			"Focus through,  Zoom through",
+			"Simple built-in alignment mechanism",
+			"Modern blue sci-fi-looking flares",
+			"Stretching 16:9 footage yields perfect 2.35:1 Cinemascope"
+		],
+		"cons": [
+			"Poor image quality with big apertures or longer lenses",
+			"Soft edges",
+			"Small rear element makes it a better fit for smaller sensor cameras"
+		],
+		"obs": [
+			["To Filter", "62mm front thread."],
+			["To Taking Lens", "37mm rear thread."],
+			["Lens Support", "None"],
+			"The alignment lock screw is small and easy to lose."
+		],
+		"shotWith": [
+			["vimeo", "39908454"],
+			["vimeo", "52852080 "]
+		]
+	},
+
+	"a684a8e0-3486-49f9-8b38-073ca5c651be": {
+		"title": "Dyaliscope Champion",
+		"titleImg": "title.jpg",
+		"stretch": 2,
+		"focusType": "Double Focus",
+		"tkLens": 115,
+		"minFocus": 5,
+		"avgPrice": 200,
+		"epn": "https://goo.gl/ziwz9H",
+		"weight": 622,
+		"length": 155,
+		"frontGlass": 58,
+		"rearGlass": 50,
+		"filterThreads": 0,
+		"rearThreads": 60,
+		"manufacturer": "Dyaliscope",
+		"alias": [],
+		"review": 0,
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157692805648854",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Good Flares",
+			" Sharp"
+		],
+		"cons": [
+			"Heavy",
+			"Needs single focus solution",
+			"Super long focus throw (355 degrees)",
+			"Does not accept wide lenses"
+		],
+		"obs": [
+			["To Filter", "Needs front clamp"],
+			["To Taking Lens", "60mm rear threads"],
+			["Lens Support", "Lens support is recommended, so a clamp like Rapido V2 with support is a good call"]
+		],
+		"shotWith": [
+			["youtube", "26YxVSD79LE"],
+			["youtube", "iuOyCgEyF8c"]
+		]
+	},
+
+	"d110344e-1587-4dee-86c6-f36f1041f74e": {
+		"title": "H. Chretien Hypergonar 8mm Cinemascope Lens",
+		"titleImg": "title.jpg",
+		"stretch": 1.75,
+		"focusType": "Fixed Focus",
+		"tkLens": 0,
+		"minFocus": 1.5,
+		"avgPrice": 1000,
+		"epn": "https://goo.gl/2xnrmM",
+		"weight": 51.7,
+		"length": 0,
+		"frontGlass": 34,
+		"rearGlass": 21,
+		"filterThreads": 0,
+		"rearThreads": 24,
+		"manufacturer": "Berthiot",
+		"alias": [
+			"Baby Hypergonar",
+			"Berthiot Cinemascope"
+		],
+		"review": 0,
+		"galleryLink": 0,
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Smallest anamorphic in the world",
+			"Extremely light",
+			"Full of character",
+			"Beautiful flares"
+		],
+		"cons": [
+			"Works better with smaller sensors",
+			"Requires diopters for closer focusing",
+			"Soft wide open"
+		],
+		"obs": [
+			["To Filter", "Needs clamp to attach filters"],
+			["To Taking Lens", "24mm, 0.5 pitch rear thread"],
+			["Lens Support", "None"],
+			"All focusing is done with the taking lens",
+			"You need to stop down to f4 to get sharpness. Is a soft lens but full of character",
+			"Performance is highly optimized through an achromatic diopter"
+		],
+		"shotWith": [
+			["vimeo", "6705650"],
+			["vimeo", "67083130"]
+		]
+	},
+
+	"d4c269c8-bcc9-4892-af73-a3df17bfb470": {
+		"title": "GB-Kalee Small Anamorphic Lens",
+		"titleImg": "title.jpg",
+		"stretch": 2,
+		"focusType": "Single Focus",
+		"tkLens": "?",
+		"minFocus": 6,
+		"avgPrice": 200,
+		"epn": "https://goo.gl/jwnQfu",
+		"weight": "?",
+		"length": 200,
+		"frontGlass": 70,
+		"rearGlass": 58,
+		"filterThreads": 0,
+		"rearThreads": 0,
+		"manufacturer": "GB-Kalee",
+		"alias": [],
+		"review": 0,
+		"galleryLink": 0,
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Has a variable-strength diopter as its focusing mechanism, making it single focus",
+			"Sharp",
+			"Modern, blue, sci-fi looking flares"
+		],
+		"cons": [
+			"Big, Heavy",
+			"Low Contrast",
+			"Does not accept wide lenses",
+			"Uses Prisms"
+		],
+		"obs": [
+			["To Filter", ""],
+			["To Taking Lens", ""],
+			["Lens Support", "None"],
+			"Made for 35mm Film projector",
+			"Made in England",
+			"Front focussing unit can be detached. Needs a way to be adapted to be used on other projection lenses. Delivers good quality images."
+		],
+		"shotWith": []
+	},
+
+	"9ab4bdab-5252-4eb2-bfe6-ad23757a37fc": {
+		"title": "H. Chretien 35mm Hypergonar HI-FI 2",
+		"titleImg": "title.jpg",
+		"stretch": 2,
+		"focusType": "Double Focus",
+		"tkLens": 135,
+		"minFocus": 7,
+		"avgPrice": 350,
+		"epn": "",
+		"weight": 1300,
+		"length": "?",
+		"frontGlass": 83,
+		"rearGlass": 70,
+		"filterThreads": 0,
+		"rearThreads": 0,
+		"manufacturer": "Henri Chrétien",
+		"alias": [
+			"Hi-Fi 2"
+		],
+		"review": 0,
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157693573236365",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Sharp",
+			"Very strong personality"
+		],
+		"cons": [
+			"Large",
+			"Heavy",
+			"Requires much extra gear to work properly"
+		],
+		"obs": [
+			["To Filter", "A 95-86mm step down can be glued (backwards) in front of the lens, for 86mm threads for diopters and 95mm threads for non-curved filters."],
+			["To Taking Lens", "Requires an extra large clamp to work properly"],
+			["Lens Support", "Velbon SPT-1 Lens Support + A sized lens collar (for Canon (70-200mm f/2.8)"]
+		],
+		"shotWith": [
+			["youtube", "rsmudYQwjQU"],
+			["youtube", "OhFY7dfQIvQ"]
+		]
+	},
+
+	"3cae9d15-4ca2-481f-824a-06c3c2e525fa": {
+		"title": "Isco Anamorphot 8/1.5x",
+		"titleImg": "title.jpg",
+		"stretch": 1.5,
+		"focusType": "Fixed Focus",
+		"tkLens": 100,
+		"minFocus": 6,
+		"avgPrice": 600,
+		"epn": "https://goo.gl/9YDBgS",
+		"weight": 60,
+		"length": "?",
+		"frontGlass": 29,
+		"rearGlass": 23,
+		"filterThreads": 30.5,
+		"rearThreads": 24,
+		"manufacturer": "Isco Precision Optics GmbH",
+		"alias": [
+			"Baby Isco"
+		],
+		"review": "https://www.youtube.com/watch?v=pNsITSxLcqU",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157673932521402",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Ultra light and small",
+			"Great flares"
+		],
+		"cons": [
+			"Requires long lenses to work on bigger sensors",
+			"Soft wide open",
+			"Requires diopters for best results"
+		],
+		"obs": [
+			["To Filter", "30.5mm thread"],
+			["To Taking Lens", "24 mm 0.5 pitch rear thread."],
+			["Lens Support", "None"]
+		],
+		"shotWith": []
+	},
+
+	"90f7d73b-1baa-4bf2-8473-5d7b037b84b2": {
+		"title": "Isco Widescreen 2000 MC",
+		"titleImg": "title.jpg",
+		"stretch": 1.5,
+		"focusType": "Fixed Focus",
+		"tkLens": 50,
+		"minFocus": 4,
+		"avgPrice": 1000,
+		"epn": "https://goo.gl/7eeqcy",
+		"weight": 225,
+		"length": "?",
+		"frontGlass": 55,
+		"rearGlass": 36,
+		"filterThreads": 0,
+		"rearThreads": 0,
+		"manufacturer": "Isco Precision Optics GmbH",
+		"alias": [
+			"Isco Widescreen",
+			"Isco 2000"
+		],
+		"review": "https://www.youtube.com/watch?v=zrzHyks4LNQ",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157664632449010",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Very light",
+			"High image quality",
+			"Sharp at wide apertures (f/2)"
+		],
+		"cons": [
+			"Fixed focus",
+			"Requires diopters for closer focusing"
+		],
+		"obs": [
+			["To Filter", "You can glue a 62-XXmm step up ring around the front of the lens, it’s almost a perfect fit and attach filters to it."],
+			["To Taking Lens", "Original Isco clamp (55mm thread), or any clamp."],
+			["Lens Support", "None"],
+			"Has outstanding performance when attached with Helios 44 taking lens and +0.4 achromatic doublet.",
+			"The alignment is set with the clamp."
+		],
+		"shotWith": [
+			["vimeo", "32530031"],
+			["vimeo", "109863730"],
+			["vimeo", "28203770"]
+		]
+	},
+
+	"3548181b-d49d-419a-9626-9733216b51ab": {
+		"title": "Isco-Optic 16:9 Video Attachment Mk I",
+		"titleImg": "title.jpg",
+		"stretch": 1.33,
+		"focusType": "Single Focus",
+		"tkLens": 55,
+		"minFocus": 2,
+		"avgPrice": 2800,
+		"epn": "https://goo.gl/fYZyN8",
+		"weight": 900,
+		"length": "?",
+		"frontGlass": 86,
+		"rearGlass": 67,
+		"filterThreads": 95,
+		"rearThreads": 77,
+		"manufacturer": "Isco Precision Optics GmbH",
+		"alias": [
+			"Isco 1.33x"
+		],
+		"review": "https://www.youtube.com/watch?v=VfeIZk0zlfY",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157675287257285",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Single Focus",
+			"Has a button for easy alignment",
+			"Sharp at wide apertures",
+			"Stretching 16:9 footage yields perfect 2.35:1 Cinemascope"
+		],
+		"cons": [
+			"Heavy",
+			"Requires diopters for closer focusing",
+			"Very rare and expensive"
+		],
+		"obs": [
+			["To Filter", "95mm threads"],
+			["To Taking Lens", "77mm threads"],
+			["Lens Support", "None"],
+			"It’s mult-icoated, so it doesn’t flare as much as other anamorphics",
+			"Focus throw is quite long",
+			"Is the first version of a lens that’s part of a projection system, so it was built around Iscorama 54’s design but with a lesser stretch"
+		],
+		"shotWith": [
+			["youtube", "TWVR9WgKdyw"]
+		]
+	},
+
+	"cc739662-0297-4c7a-8af3-a8faf6ff9ab7": {
+		"title": "Isco Optic Ultra-Star Cinemascope",
+		"titleImg": "title.jpg",
+		"stretch": 2,
+		"focusType": "Double Focus",
+		"tkLens": 85,
+		"minFocus": 1.5,
+		"avgPrice": 300,
+		"epn": "https://goo.gl/dUzNPw",
+		"weight": 300,
+		"length": "?",
+		"frontGlass": 45,
+		"rearGlass": 42,
+		"filterThreads": 0,
+		"rearThreads": 0,
+		"manufacturer": "Schneider",
+		"alias": [
+			"ISCO",
+			"Isco Ultra Star",
+			"Isco Blue Star"
+		],
+		"review": "https://www.youtube.com/watch?v=RH0NT7fUQnM",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157691842910771",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Sharp, edge to edge",
+			"Easy to find and cheap enough"
+		],
+		"cons": [],
+		"obs": [
+			["To Filter", "Vid-Atlantic front clamp fits perfectly around its front."],
+			["To Taking Lens", "Vid-Atlantic's clamp also fits perfectly around its back."],
+			["Lens Support", "Canon 100mm macro mount ring"],
+			"3 different versions :",
+			" - Studio: the first generation, has indents around the front.",
+			" - Gold: the one in the picture, optically identical to the “studio” but smaller in diameter.",
+			" - Red: identical size to the Gold one but with cleaner coating for even less flares)",
+			"It’s multi-coated, so flares aren’t so pronounced",
+			"You can add a cheap ND/UV filter on the back which add anamorphic flares."
+		],
+		"shotWith": [
+			["youtube", "v73hXEkQadI"],
+			["vimeo", "39945736"],
+			["vimeo", "70086611"],
+			["youtube", "OlW_XMRJ3zs"]
+		]
+	},
+
+	"09e7da51-22c6-42ae-b327-bdf5b177f81b": {
+		"title": "Iscomorphot 8/1.5x",
+		"titleImg": "title.jpg",
+		"stretch": 1.5,
+		"focusType": "Single Focus",
+		"tkLens": 55,
+		"minFocus": 0.5,
+		"avgPrice": 800,
+		"epn": "https://goo.gl/BRg5xX",
+		"weight": 80,
+		"length": "?",
+		"frontGlass": 36,
+		"rearGlass": 23,
+		"filterThreads": 37,
+		"rearThreads": 24,
+		"manufacturer": "Isco Precision Optics GmbH",
+		"alias": [
+			"Baby Iscorama"
+		],
+		"review": "https://www.youtube.com/watch?v=PNT5HytG0tM",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157693573236335",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Ultra light",
+			"Great flares",
+			"Single Focus"
+		],
+		"cons": [
+			"Soft wide open"
+		],
+		"obs": [
+			["To Filter", "39mm thread"],
+			["To Taking Lens", "24mm 0.5 pitch rear thread."],
+			["Lens Support", "None"],
+			"Like every Iscorama, you just need to focus the taking lens to infinity and then do all the focusing with the Isco.",
+			"It’s not multi-coated, so the flares are the same color as the light source and very strong!",
+			"Ideal for APS-C sensors or smaller.",
+			"It has no alignment buttons, but a red dot indicating the stretch direction. This dot should always be facing up"
+		],
+		"shotWith": [
+			["youtube", "kYtKwN7ARv8"],
+			["vimeo", "89787652"]
+		]
+	},
+
+	"33ff383f-9f5a-4724-b4a2-7dda52bf88bf": {
+		"title": "Iscomorphot 8/2x",
+		"titleImg": "title.jpg",
+		"stretch": 2,
+		"focusType": "Fixed Focus",
+		"tkLens": 100,
+		"minFocus": 5,
+		"avgPrice": 750,
+		"epn": "https://goo.gl/yLJ3Cc",
+		"weight": 255,
+		"length": "?",
+		"frontGlass": 49,
+		"rearGlass": 30,
+		"filterThreads": 0,
+		"rearThreads": 0,
+		"manufacturer": "Isco Precision Optics GmbH",
+		"alias": [
+			"Iscomorphot S8/2x",
+			"Isco Animex"
+		],
+		"review": 0,
+		"galleryLink": "https://www.flickr.com/photos/44569540@N05/albums/72157630982101542",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Small",
+			"Light",
+			"Sharp wide open"
+		],
+		"cons": [],
+		"obs": [
+			["To Filter", "Needs front clamp"],
+			["To Taking Lens", "Needs clamp"],
+			["Lens Support", "None"],
+			"Flares are very similar to the Iscorama (pre-36). Nice, crisp, oval bokeh."
+		],
+		"shotWith": [
+			["youtube", "WjaGbByYeR8"],
+			["vimeo", "116855304"]
+		]
+	},
+
+	"61f12247-ef6c-4bd2-a353-61ce9ea99e04": {
+		"title": "Iscorama pre36",
+		"titleImg": "title.jpg",
+		"stretch": 1.5,
+		"focusType": "Single Focus",
+		"tkLens": 40,
+		"minFocus": 2,
+		"avgPrice": 3500,
+		"epn": "https://goo.gl/zNTvVz",
+		"weight": 400,
+		"length": 100,
+		"frontGlass": 70,
+		"rearGlass": 30,
+		"filterThreads": 72,
+		"rearThreads": 49,
+		"manufacturer": "Isco Precision Optics GmbH",
+		"alias": [
+			"Isco-36",
+			"Original Iscorama",
+			"Holy Grail of Anamorphics"
+		],
+		"review": "https://www.youtube.com/watch?v=4eX6DYy2ocE",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157675191584016",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Single Focus",
+			"Great flare",
+			"Sharp wide open",
+			"Has a button for easy alignment"
+		],
+		"cons": [
+			"Very expensive"
+		],
+		"obs": [
+			["To Filter", "72mm thread."],
+			["To Taking Lens", "49mm rear threads."],
+			["Lens Support", "None"],
+			"Focus the taking lens to infinity and do all the real focusing on the Iscorama.  The focus throw is quite long.",
+			"Rear element measures 30mm opposed to 36mm in the Iscorama 36. It’s single coated, so the flares are very strong.",
+			"The minimum focus distance can be modified by taking off the focus ring stoppers. By doing this, your minimum focus distance comes to about 1.2m/4ft but the front element can easily pop off from the rest of the lens body.",
+			"The original 50mm taking lenses were made without a focus ring, set at infinity focus and in the following mounts: Exakta, Minolta SR, Nikon F and Praktica M42."
+		],
+		"shotWith": []
+	},
+
+	"a10b7670-1268-4eaf-997a-0ddd420882c3": {
+		"title": "Iscorama 36",
+		"titleImg": "title.jpg",
+		"stretch": 1.5,
+		"focusType": "Single Focus",
+		"tkLens": 40,
+		"minFocus": 2,
+		"avgPrice": 3500,
+		"epn": "https://goo.gl/zNTvVz",
+		"weight": 400,
+		"length": 100,
+		"frontGlass": 70,
+		"rearGlass": 36,
+		"filterThreads": 72,
+		"rearThreads": 49,
+		"manufacturer": "Isco Precision Optics GmbH",
+		"alias": [
+			"Isco 36",
+			"Holy Grail of Anamorphics"
+		],
+		"review": "https://www.youtube.com/watch?v=4eX6DYy2ocE",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157675191584016",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Single Focus",
+			"Great flare",
+			"Sharp wide open",
+			"Has a button for easy alignment"
+		],
+		"cons": [
+			"Very expensive"
+		],
+		"obs": [
+			["To Filter", "72mm thread."],
+			["To Taking Lens", "49mm rear threads."],
+			["Lens Support", "None"],
+			"Focus the taking lens to infinity and do all the real focusing on the Iscorama.  The focus throw is quite long.",
+			"The minimum focus distance can be modified by taking off the focus ring stoppers. By doing this, your minimum focus distance comes to about 1.2m/4ft but the front element can easily pop off from the rest of the lens body."
+		],
+		"shotWith": [
+			["vimeo", "65643270"],
+			["vimeo", "105664732"]
+		]
+	},
+
+	"29d9a501-ada1-49c5-a5d6-56da220cbe97": {
+		"title": "Iscorama 42",
+		"titleImg": "title.jpg",
+		"stretch": 1.5,
+		"focusType": "Single Focus",
+		"tkLens": 40,
+		"minFocus": 2,
+		"avgPrice": 3900,
+		"epn": "https://goo.gl/5Y8WN1",
+		"weight": 750,
+		"length": 115,
+		"frontGlass": 80,
+		"rearGlass": 42,
+		"filterThreads": 82,
+		"rearThreads": 62,
+		"manufacturer": "Isco Precision Optics GmbH",
+		"alias": [
+			"Isco 42"
+		],
+		"review": "https://www.youtube.com/watch?v=4gZ6Ge8LLH0",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157669199418791",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Single Focus",
+			"Sharp wide open"
+		],
+		"cons": [
+			"Very expensive and rare",
+			"Features a different alignment mechanism which isn't as easy as the other Iscoramas",
+			"Cleaner look due to multicoating, less flares"
+		],
+		"obs": [
+			["To Filter", "82mm thread."],
+			["To Taking Lens", "62mm rear threads."],
+			["Lens Support", "None"],
+			"Focus the taking lens to infinity and do all the real focusing on the Iscorama.  The focus throw is quite long."
+		],
+		"shotWith": [
+			["vimeo", "12669611"],
+			["vimeo", "6923797"]
+		]
+	},
+
+	"e3334fcb-0463-4743-8bfe-5e5c54846a5d": {
+		"title": "Iscorama 54",
+		"titleImg": "title.jpg",
+		"stretch": 1.5,
+		"focusType": "Single Focus",
+		"tkLens": 40,
+		"minFocus": 2,
+		"avgPrice": 3900,
+		"epn": "https://goo.gl/ndzJow",
+		"weight": 900,
+		"length": 115,
+		"frontGlass": 86,
+		"rearGlass": 54,
+		"filterThreads": 95,
+		"rearThreads": 77,
+		"manufacturer": "Isco Precision Optics GmbH",
+		"alias": [
+			"Isco 54"
+		],
+		"review": "https://www.youtube.com/watch?v=60Eg4-gKTV8",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157651205215629",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Single Focus",
+			"Sharp wide open",
+			"Has a button for easy alignment"
+		],
+		"cons": [
+			"Very expensive",
+			"Big and heavy when compared to other Iscoramas",
+			"Requires large diopters for close focusing, which are hard to come by."
+		],
+		"obs": [
+			["To Filter", "95mm thread."],
+			["To Taking Lens", "77mm rear threads."],
+			["Lens Support", "None"],
+			"Focus the taking lens to infinity and do all the real focusing on the Iscorama.  The focus throw is quite long.",
+			"There are both MC and non-MC versions of this lens, in which the non-MC are much more flary than the MC's."
+		],
+		"shotWith": [
+			["vimeo", "91386936"],
+			["vimeo", "51816478"],
+			["vimeo", "10918958"]
+		]
+	},
+
+	"41ef4921-0854-4fe6-93b9-b3d5deb978ae": {
+		"title": "Yashicascope",
+		"titleImg": "title.jpg",
+		"stretch": 1.5,
+		"focusType": "Double Focus",
+		"tkLens": 75,
+		"minFocus": 1,
+		"avgPrice": 300,
+		"epn": "https://goo.gl/ce3Xqy",
+		"weight": 54,
+		"length": 50,
+		"frontGlass": 32,
+		"rearGlass": 21,
+		"filterThreads": 0,
+		"rearThreads": 30.5,
+		"manufacturer": "Yashica",
+		"alias": [],
+		"review": 0,
+		"galleryLink": 0,
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Lightweight",
+			"Sharp (in the middle)"
+		],
+		"cons": [
+			"Small rear element (needs to be paired with a taking lens with a small front element)."
+		],
+		"obs": [
+			["To Filter", "Needs front clamp."],
+			["To Taking Lens", "30.5mm rear threads."],
+			["Lens Support", "Not needed"],
+			"Made for 8mm cameras.",
+			"Usually shipped with a reverse lock adapter (30.5mm)  and a step up for use with smaller D-mount lenses"
+		],
+		"shotWith": [
+			["vimeo", "38166014"],
+			["youtube", "h8T6s3DDScQ"]
+		]
+	},
+
+	"caa4f089-d125-47ac-8a97-5be61c4d750e": {
+		"title": "Iscorama 1060 MC",
+		"titleImg": "title.jpg",
+		"stretch": 1.5,
+		"focusType": "Fixed Focus",
+		"tkLens": 50,
+		"minFocus": 6,
+		"avgPrice": 1000,
+		"epn": "https://goo.gl/g1U9Ex",
+		"weight": 480,
+		"length": "?",
+		"frontGlass": 62,
+		"rearGlass": 50,
+		"filterThreads": 0,
+		"rearThreads": 0,
+		"manufacturer": "Isco Precision Optics GmbH",
+		"alias": [],
+		"review": 0,
+		"galleryLink": 0,
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Light",
+			"Exceptional image quality",
+			"Has a locking ring for easy alignment"
+		],
+		"cons": [
+			"Requires diopters for proper focusing."
+		],
+		"obs": [
+			["To Filter", "Needs front clamp."],
+			["To Taking Lens", "Needs rear clamp."],
+			["Lens Support", "None"]
+		],
+		"shotWith": [
+			["youtube", "2NLvM8DHnYU"]
+		]
+	},
+
+	"02348f47-26a7-4d57-adb2-4f427f713465": {
+		"title": "Kowa Prominar 16-H / 8-Z",
+		"titleImg": "title.jpg",
+		"stretch": 2,
+		"focusType": "Double focus",
+		"tkLens": 60,
+		"minFocus": 1.5,
+		"avgPrice": 1000,
+		"epn": "https://goo.gl/sxn1Ar",
+		"weight": 530,
+		"length": "?",
+		"frontGlass": 66,
+		"rearGlass": 50,
+		"filterThreads": 0,
+		"rearThreads": 0,
+		"manufacturer": "Kowa",
+		"alias": [
+			"Kowa 8Z",
+			"Kowa 16H"
+		],
+		"review": "https://www.youtube.com/watch?v=k5oYoGLxmmg",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157691842910791",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Good flare and image quality",
+			"Top tier Kowas, same optics as Kowa B&H and Elmoscope II"
+		],
+		"cons": [
+			"Due to design, it shows veiling glare when pointed at light sources regardless of the taking lens",
+			"Rather pronounced mumps at edge frame with wider lenses"
+		],
+		"obs": [
+			["To Filter", "HTN dedicated adapters sold through facebook. Also, filter clamps from Redstan, Rapido technology, RAFcamera and Vid-Atlantic"],
+			["To Taking Lens", "Rapido technology clamps, Generic Vid-Atlantic clamp (52mm), dedicated Redstan Clamp, 43mm rear thread (can be attached with a XX-43mm step ring)."],
+			["Lens Support", "Rapido technology V2 clamp"],
+			"Highly sought after because of good optical performance and slightly wider coverage than comparable 2x stretch lenses."
+		],
+		"shotWith": [
+			["youtube", "6rnlJZEUTQA"],
+			["vimeo", "37623227"],
+			["vimeo", "6489768"]
+		]
+	},
+
+	"dd1f14ee-7e12-4990-9126-a3c9c527f434": {
+		"title": "Kowa Prominar 16-S",
+		"titleImg": "title.jpg",
+		"stretch": 2,
+		"focusType": "Double Focus",
+		"tkLens": 85,
+		"minFocus": 1.5,
+		"avgPrice": 380,
+		"epn": "https://goo.gl/Gk78Ty",
+		"weight": 290,
+		"length": 83,
+		"frontGlass": 43,
+		"rearGlass": 40,
+		"filterThreads": 0,
+		"rearThreads": 43,
+		"manufacturer": "Kowa",
+		"alias": [],
+		"review": 0,
+		"galleryLink": 0,
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Light",
+			"Compact",
+			"Good flare and image quality"
+
+		],
+		"cons": [
+			"Due to design, it shows veiling glare when pointed at light sources regardless of the taking lens"
+		],
+		"obs": [
+			["To Filter", "Needs front clamp."],
+			["To Taking Lens", "Generic Vid-Atlantic clamp (52mm), Redstan Clamp, 43mm rear thread (can be attached with a XX-43mm step ring)."],
+			["Lens Support", "None"]
+		],
+		"shotWith": []
+	},
+
+	"18c731cd-9bed-409f-b4a8-64528ab04b3e": {
+		"title": "Panasonic AG-LA7200",
+		"titleImg": "title.jpg",
+		"stretch": 1.33,
+		"focusType": "Fixed Focus",
+		"tkLens": 24,
+		"minFocus": 3,
+		"avgPrice": 900,
+		"epn": "https://goo.gl/xP6MK2",
+		"weight": 400,
+		"length": 80,
+		"frontGlass": 96,
+		"rearGlass": 67,
+		"filterThreads": 0,
+		"rearThreads": 72,
+		"manufacturer": "Panasonic",
+		"alias": [
+			"Panny",
+			"LA7200",
+			"7200"
+		],
+		"review": "https://www.youtube.com/watch?v=uS0n18T5yOU",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157671782864373",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Allows the widest taking lens.",
+			"Simple, built-in alignment mechanism.",
+			"Modern, blue, sci-fi-looking flares.",
+			"Best performer among fixed focus DV adapters."
+		],
+		"cons": [
+			"Poor image quality when used with wide apertures or longer lenses.",
+			"Can’t focus properly without a big diopter in front.",
+			"Requires taking lens to be stopped down",
+			"Blurry edges.",
+			"Fragile."
+		],
+		"obs": [
+			["To Filter", "105mm filters (wedge fit), LOMO Foton-A diopters, or a custom-made front with 95mm threads: https://www.youtube.com/watch?v=Rj_CNXtfGM4"],
+			["To Taking Lens", "72mm deep rear threads, might require a step ring to reach taking lens."],
+			["Lens Support", "None"],
+			"There are two variations of this lens. One has more prominent, matte box style, flaps, and one doesn't.",
+			"The small screw used to lock the alignment is easy to lose."
+		],
+		"shotWith": [
+			["vimeo", "67718394"],
+			["vimeo", "90716443"],
+			["youtube", "uPmaUtB0H8s"],
+			["youtube", "xBciAd9ac3s"]
+		]
+	},
+
+	"2dde974e-272c-403d-9c2f-69d42b9c17c0": {
+		"title": "Petrascope F 1.5x",
+		"titleImg": "title.jpg",
+		"stretch": 1.5,
+		"focusType": "Double Focus",
+		"tkLens": 80,
+		"minFocus": 1.4,
+		"avgPrice": "?",
+		"epn": "https://goo.gl/NtPwgX",
+		"weight": 500,
+		"length": 70,
+		"frontGlass": 55,
+		"rearGlass": 39,
+		"filterThreads": 58,
+		"rearThreads": 0,
+		"manufacturer": "Peter Stent (Photo-Ciné) LTD",
+		"alias": [
+			"Petrascope"
+		],
+		"review": 0,
+		"galleryLink": 0,
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Nice flare",
+			"Sharpness is consistent edge to edge",
+			"Low chromatic aberration"
+		],
+		"cons": [
+			"Easy to throw out of alignment",
+			"Peculiar focus"
+		],
+		"obs": [
+			["To Filter", "58mm thread"],
+			["To Taking Lens", "Original bracket epoxied to a 67-58mm stepdown ring"],
+			["Lens Support", "None"],
+			"Alignment between optics is not fixed. The set screw unlocks focus as well as alignment therefore very easy to throw out alignment when focusing.",
+			"Requires 3/32 Allen wrench for set screw lock/unlock.",
+			"Doesn't seem sharp at infinity",
+			"Disparity between point of sharpest focus when anamorphic is on and when it is not on. When subject distance in 5' and taking lens is set to 5' once anamorphic lens is mounted taking lens must be focused closer to get sharpest image possible.",
+			"Alignment:",
+			"1. Set lens in bracket",
+			"2. Loosen set screw",
+			"3. Remove front optic",
+			"4. Align rear optic so that all streaks are parallel to the top and bottom of monitor edges",
+			"5. Replace front optic",
+			"6. Rotate front optic until objects come into relative focus",
+			"Focusing:",
+			"1. Set the focus of taking lens to point where there is no vertical disparity in the image",
+			"2. Push / pull front optic of Petrascope until there is no horizontal disparity in the image",
+			"3. Tighten set screw"
+		],
+		"shotWith": []
+	},
+
+	"ca235b7e-46ce-43b6-b83c-9d3a80824263": {
+		"title": "Moller Anamorphot 32/2x",
+		"titleImg": "title.jpg",
+		"stretch": 2,
+		"focusType": "Double Focus",
+		"tkLens": 85,
+		"minFocus": 1.5,
+		"avgPrice": 500,
+		"epn": "https://goo.gl/3hYvMT",
+		"weight": 300,
+		"length": "?",
+		"frontGlass": "?",
+		"rearGlass": 38,
+		"filterThreads": 0,
+		"rearThreads": 39,
+		"manufacturer": "Moller",
+		"alias": [],
+		"review": 0,
+		"galleryLink": 0,
+		"galleryImg": "photo.jpg",
+		"pros": [],
+		"cons": [],
+		"obs": [
+			["To Filter", "Needs front clamp."],
+			["To Taking Lens", "39mm rear thread."],
+			["Lens Support", "None"]
+		],
+		"shotWith": [
+			["youtube", "FpGm6dj6PR8"],
+			["youtube", "ym_iB-CUX5E"],
+			["vimeo", "56067502"]
+		]
+	},
+
+	"8efe1f1a-7470-44b2-ba91-cd91927f43ef": {
+		"title": "Optex 16:9 Ratio Adapter",
+		"titleImg": "title.jpg",
+		"stretch": 1.33,
+		"focusType": "Fixed Focus",
+		"tkLens": 35,
+		"minFocus": 3,
+		"avgPrice": 650,
+		"epn": "https://goo.gl/Yd5ecb",
+		"weight": 250,
+		"length": 50,
+		"frontGlass": 70,
+		"rearGlass": 50,
+		"filterThreads": 0,
+		"rearThreads": 52,
+		"manufacturer": "Optex",
+		"alias": [
+			"Optex"
+		],
+		"review": 0,
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157675191681386",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Allows wide taking lens",
+			"Simple, built in alignment mechanism",
+			"Modern, blue, sci-fi looking flares",
+			"Stretching 16:9 footage yields perfect 2.35:1 Cinemascope"
+		],
+		"cons": [
+			"Poor image quality with big apertures or longer lenses",
+			"Can't focus properly without diopters",
+			"Requires taking lens to be stopped down",
+			"Soft edges"
+		],
+		"obs": [
+			["To Filter", "Needs front clamp."],
+			["To Taking Lens", "52mm rear thread."],
+			["Lens Support", "None"],
+			"Harder to find than its identical twin, the Century Optics 16:9 Ratio Converter",
+			"The alignment lock screw is small and easy to lose"
+		],
+		"shotWith": [
+			["youtube", "7fe-vsZVV5U"],
+			["youtube", "guz6jteXfu0"],
+			["vimeo", "15543342"]
+		]
+	},
+
+	"8026a822-3720-4778-ba68-95efb9bac895": {
+		"title": "Eiki 16-F",
+		"titleImg": "title.jpg",
+		"stretch": 2,
+		"focusType": "Double Focus",
+		"tkLens": 85,
+		"minFocus": 1.5,
+		"avgPrice": 450,
+		"epn": "https://goo.gl/1L6nvU",
+		"weight": 290,
+		"length": "?",
+		"frontGlass": 72,
+		"rearGlass": 40,
+		"filterThreads": 0,
+		"rearThreads": 0,
+		"manufacturer": "Kowa",
+		"alias": [
+			"Kowa 16-F"
+		],
+		"review": 0,
+		"galleryLink": 0,
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Light",
+			"Compact",
+			"Good flare and image quality"
+		],
+		"cons": [
+			"Due to design, it shows veiling glare when pointed at light sources regardless of the taking lens"
+		],
+		"obs": [
+			["To Filter", "Needs front clamp."],
+			["To Taking Lens", "Needs clamp."],
+			["Lens Support", "None"]
+		],
+		"shotWith": []
+	},
+
+	"77e5bcbd-30ab-4b89-90cb-205c832eec1e": {
+		"title": "Kowa Prominar 16-D",
+		"titleImg": "title.jpg",
+		"stretch": 2,
+		"focusType": "Double Focus",
+		"tkLens": 85,
+		"minFocus": 1.5,
+		"avgPrice": 400,
+		"epn": "https://goo.gl/VFnz3w",
+		"weight": 300,
+		"length": 110,
+		"frontGlass": 60,
+		"rearGlass": 25,
+		"filterThreads": 0,
+		"rearThreads": 0,
+		"manufacturer": "Kowa",
+		"alias": [],
+		"review": "https://www.youtube.com/watch?v=FlkW0UeuzOo",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157691842910661",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Light",
+			"Compact",
+			"Good flare and image quality"
+		],
+		"cons": [
+			"Due to design, it shows veiling glare when pointed at light sources regardless of the taking lens"
+		],
+		"obs": [
+			["To Filter", "Needs front clamp."],
+			["To Taking Lens", "Needs clamp."],
+			["Lens Support", "None"]
+		],
+		"shotWith": []
+	},
+
+	"df77dc8b-2ede-4e80-98b7-8987dac129ca": {
+		"title": "Kinoscope 8/1.5x",
+		"titleImg": "title.jpg",
+		"stretch": 1.5,
+		"focusType": "Fixed Focus",
+		"tkLens": 75,
+		"minFocus": 3,
+		"avgPrice": 350,
+		"epn": "https://goo.gl/bWB5hB",
+		"weight": 110,
+		"length": "?",
+		"frontGlass": 46,
+		"rearGlass": 22,
+		"filterThreads": 0,
+		"rearThreads": 25,
+		"manufacturer": "Kinoscope Rochester, NY",
+		"alias": [],
+		"review": 0,
+		"galleryLink": 0,
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Ultra light",
+			"Easily adjustable",
+			"Once aligned, sharp up to 200mm taking lens on MFT"
+		],
+		"cons": [
+			"Uncoated, streaks almost without color",
+			"Poor minimum focus distance"
+		],
+		"obs": [
+			["To Filter", "Unthreaded front filter diameter is 49.6mm. Use a 49mm filter (or diopter) and electrical tape on the filter (or diopter) to press it into front when needed."],
+			["To Taking Lens", "2 Clamps typically included."],
+			["Lens Support", "None"]
+		],
+		"shotWith": [
+			["vimeo", "124343732"],
+			["vimeo", "121607893"]
+		]
+	},
+
+	"9b6e1a4b-589e-4746-9e7a-621d588f7c98": {
+		"title": "Vistascope 8mm",
+		"titleImg": "title.jpg",
+		"stretch": 1.5,
+		"focusType": "Fixed Focus",
+		"tkLens": 80,
+		"minFocus": 4,
+		"avgPrice": 250,
+		"epn": "https://goo.gl/GOjixM",
+		"weight": 105,
+		"length": 40,
+		"frontGlass": 35,
+		"rearGlass": 20,
+		"filterThreads": 0,
+		"rearThreads": 25.4,
+		"manufacturer": "Old Delft",
+		"alias": [
+			"Delrama"
+		],
+		"review": "https://www.youtube.com/watch?v=t1hnxyjNSd8",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157691842910621",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Ultra light",
+			"Unique look",
+			"Cheap!",
+			"Can be tweaked for improved performance",
+			"Square shape makes it super easy to align"
+		],
+		"cons": [
+			"Very soft when wide open",
+			"Its tiny size makes it a good fit for smaller sensor cameras",
+			"Prism based, so doesn't make the regular anamorphic artifacts"
+		],
+		"obs": [
+			["To Filter", "TFerradans' 3D Printed front clamp: https://goo.gl/B6kTRw"],
+			["To Taking Lens", "C-mount threads, you can use an adapter."],
+			["Lens Support", "None"],
+			"This version was made for 8mm cameras"
+		],
+		"shotWith": [
+			["vimeo", "66013180"],
+			["vimeo", "61045763"],
+			["youtube", "0NOfNhRDz8U"],
+			["youtube", "CMlPLVTAeAw"]
+		]
+	},
+
+	"7e1b5bc8-30ec-48f2-bf2a-b801fb590b4e": {
+		"title": "Vistascope 16mm",
+		"titleImg": "title.jpg",
+		"stretch": 1.5,
+		"focusType": "Fixed Focus",
+		"tkLens": 80,
+		"minFocus": 4,
+		"avgPrice": 250,
+		"epn": "https://goo.gl/GOjixM",
+		"weight": 275,
+		"length": 55,
+		"frontGlass": 65,
+		"rearGlass": 32,
+		"filterThreads": 0,
+		"rearThreads": 0,
+		"manufacturer": "Old Delft",
+		"alias": [
+			"Delrama 16mm"
+		],
+		"review": "https://www.youtube.com/watch?v=50sWsIulPGs",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157691842910541",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Ultra light",
+			"Unique look",
+			"Cheap!",
+			"Can be tweaked for improved performance",
+			"Square shape makes it super easy to align"
+		],
+		"cons": [
+			"Very soft when wide open",
+			"Prism based, so doesn't make the regular anamorphic artifacts"
+		],
+		"obs": [
+			["To Filter", "TFerradans' 3D Printed front clamp: https://goo.gl/CtKDwo"],
+			["To Taking Lens", "Needs clamp."],
+			["Lens Support", "None"],
+			"This is the 16mm version and it exists in both 1.5x and 2x stretch"
+		],
+		"shotWith": []
+	},
+
+	"f4746d7b-8770-4d49-ad6c-d0bd784ec24c": {
+		"title": "Letus35 AnamorphX-GP",
+		"titleImg": "title.jpg",
+		"stretch": 1.33,
+		"focusType": "Fixed Focus",
+		"tkLens": "?",
+		"minFocus": 3,
+		"avgPrice": 200,
+		"epn": "https://goo.gl/0zpWPQ",
+		"weight": 60,
+		"length": 20,
+		"frontGlass": 35,
+		"rearGlass": 16,
+		"filterThreads": 0,
+		"rearThreads": 0,
+		"manufacturer": "Letus35",
+		"alias": [],
+		"review": "https://www.youtube.com/watch?v=hiOOiUD0SDA",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157691842910811",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Ultra light",
+			"Only anamorphic designed for GoPro",
+			"Interesting streaky flares",
+			"Good for really wide POV, first person anamorphic"
+		],
+		"cons": [
+			"You can't really control settings on a GoPro",
+			"Only works with specific versions of the camera"
+		],
+		"obs": [
+			["To Filter", "None"],
+			["To Taking Lens", "Comes with clamp to attach to camera body, and screws to fit on GoPro 3+ casing."],
+			["Lens Support", "None"]
+		],
+		"shotWith": []
+	},
+
+	"f8b9433b-ddda-42a2-a17b-c7a7004035fb": {
+		"title": "SLR Magic Anamorphot 1.33x-40 SF",
+		"titleImg": "title.jpg",
+		"stretch": 1.33,
+		"focusType": "Single Focus",
+		"tkLens": 40,
+		"minFocus": 1.2,
+		"avgPrice": 650,
+		"epn": "https://goo.gl/oVyFnT",
+		"weight": 535,
+		"length": 150,
+		"frontGlass": 77,
+		"rearGlass": 40,
+		"filterThreads": 82,
+		"rearThreads": 52,
+		"manufacturer": "SLR Magic",
+		"alias": [],
+		"review": "https://www.youtube.com/watch?v=Ab7KFtUFv8s",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157676434321064",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Comes with a built-in Rangefinder which makes the lens single focus",
+			"Stretching 16:9 footage yields 2.35:1 perfect Cinemascope"
+		],
+		"cons": [
+			"Soft image quality up to f/4",
+			"Blurry edges",
+			"Doesn't work so well with longer taking lenses"
+		],
+		"obs": [
+			["To Filter", "82mm Standard threads"],
+			["To Taking Lens", "52mm Standard threads"],
+			["Lens Support", "None"],
+			"There's very little information about this lens online and it is commonly confused with the SLR Magic Anamorphot 1.33x-40 Compact"
+		],
+		"shotWith": []
+	},
+
+	"e8492458-9ea4-423b-bc95-fdaeac17dc9a": {
+		"title": "SLR Magic Anamorphot 1.33x-40 Compact",
+		"titleImg": "title.jpg",
+		"stretch": 1.33,
+		"focusType": "Double Focus",
+		"tkLens": 40,
+		"minFocus": 0.8,
+		"avgPrice": 500,
+		"epn": "https://goo.gl/Zc4jHj",
+		"weight": 244,
+		"length": 80,
+		"frontGlass": 58,
+		"rearGlass": 40,
+		"filterThreads": 62,
+		"rearThreads": 52,
+		"manufacturer": "SLR Magic",
+		"alias": [
+			"Compact Anamorphot"
+		],
+		"review": "https://www.youtube.com/watch?v=bOYTyMJm6qg",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157691842910641",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Best and cheapest SLR Magic Anamorphot yet",
+			"Readily available"
+		],
+		"cons": [
+			"Not so great image quality on apertures faster than f/2.8",
+			"Friendlier with smaller sensors (S35, MFT)",
+			"Doesn't work so well with longer taking lenses",
+			"Square glass elements lead to square bokeh instead of oval"
+		],
+		"obs": [
+			["To Filter", "62mm Standard threads"],
+			["To Taking Lens", "52mm Standard threads"],
+			["Lens Support", "None"]
+		],
+		"shotWith": []
+	},
+
+	"c14bff15-f070-4dff-b0d0-e2f43e22c892": {
+		"title": "Isco Inflight 16/1.75x",
+		"titleImg": "title.jpg",
+		"stretch": 1.75,
+		"focusType": "Double Focus",
+		"tkLens": 50,
+		"minFocus": 2.5,
+		"avgPrice": 100,
+		"epn": "https://goo.gl/9jGqJf",
+		"weight": 1200,
+		"length": 160,
+		"frontGlass": 86,
+		"rearGlass": 60,
+		"filterThreads": 0,
+		"rearThreads": 0,
+		"manufacturer": "Isco Precision Optics GmbH",
+		"alias": [],
+		"review": "https://www.youtube.com/watch?v=E2HuZi5bb_o",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157691842910721",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Beautiful flares",
+			"1.75x stretch goes to almost perfect 2.4:1 on 4:3 sensor crops",
+			"Excellent image quality"
+		],
+		"cons": [
+			"Incredibly hard to find",
+			"Large and bulky"
+		],
+		"obs": [
+			["To Filter", "None"],
+			["To Taking Lens", "Requires oversized clamp."],
+			["Lens Support", "TFerradans' lens support: https://goo.gl/pD5d2k"]
+		],
+		"shotWith": []
+	},
+
+	"f56ee85d-302d-4248-9c39-f0481854e67c": {
+		"title": "Kowa for Bell & Howell",
+		"titleImg": "title.jpg",
+		"stretch": 2,
+		"focusType": "Double Focus",
+		"tkLens": 65,
+		"minFocus": 1.4,
+		"avgPrice": 1000,
+		"epn": "https://goo.gl/Bvm83K",
+		"weight": 505,
+		"length": 110,
+		"frontGlass": 53,
+		"rearGlass": 45,
+		"filterThreads": 0,
+		"rearThreads": 0,
+		"manufacturer": "Kowa",
+		"alias": [
+			"Kowa B&H",
+			"Elmoscope II"
+		],
+		"review": "https://www.youtube.com/watch?v=ZdCu0h-AVhM",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157673967631311",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Light",
+			"Exceptional image quality",
+			"Sharp wide open",
+			"Great build quality",
+			"Can be modded for improved performance"
+		],
+		"cons": [
+			"Due to design, it shows veiling glare when pointed at light sources regardless of the taking lens"
+		],
+		"obs": [
+			["To Filter", "Needs front clamp."],
+			["To Taking Lens", "Needs clamp."],
+			["Lens Support", "None"],
+			"In spite of the different names, this lens shares the same glass as the Kowas 8-Z, 16-H and Elmoscope II",
+			"It appears that the factory-set close focus distance from front optic to subject for the Kowa is approximately 3 feet 8 inches.  This is due to the focus travel going beyond the 5-foot minimum marker on the lens being a common quirk of that particular lens from it's factory design.",
+			"Redstan’s clamp has a securing ring that won’t let the lens fall off the clamp even when the nylon screws are loose for alignment.",
+			"The lens can be modded to reduce minimum focus distance, barrel glow from light sources, and overall sharpness: https://www.youtube.com/playlist?list=PLAznI2VjZXIj0xNVzyMDR8_yv5j-bINlY"
+		],
+		"shotWith": [
+			["youtube", "Tba5qm_rjE8"],
+			["vimeo", "73266287"],
+			["youtube", "d2wLrZR7Dmc"],
+			["youtube", "mNlgI8DARm0"]
+		]
+	},
+
+	"164e4559-375f-4b49-a6c7-13e6c816d96e": {
+		"title": "Elmoscope II",
+		"titleImg": "title.jpg",
+		"stretch": 2,
+		"focusType": "Double Focus",
+		"tkLens": 65,
+		"minFocus": 1.4,
+		"avgPrice": 1000,
+		"epn": "https://goo.gl/dsAQp1",
+		"weight": 505,
+		"length": 110,
+		"frontGlass": 53,
+		"rearGlass": 45,
+		"filterThreads": 0,
+		"rearThreads": 0,
+		"manufacturer": "Elmo",
+		"alias": [
+			"Kowa B&H"
+		],
+		"review": "https://www.youtube.com/watch?v=ZdCu0h-AVhM",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157671771429074",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Light",
+			"Exceptional image quality",
+			"Sharp wide open",
+			"Great build quality",
+			"Can be modded for improved performance"
+		],
+		"cons": [
+			"Due to design, it shows veiling glare when pointed at light sources regardless of the taking lens"
+		],
+		"obs": [
+			["To Filter", "Needs front clamp."],
+			["To Taking Lens", "Needs clamp."],
+			["Lens Support", "None"],
+			"In spite of the different names, this lens shares the same glass as the Kowas 8-Z, 16-H and Kowa B&H",
+			"It appears that the factory-set close focus distance from front optic to subject for the Kowa is approximately 3 feet 8 inches.  This is due to the focus travel going beyond the 5-foot minimum marker on the lens being a common quirk of that particular lens from it's factory design.",
+			"Redstan’s clamp has a securing ring that won’t let the lens fall off the clamp even when the nylon screws are loose for alignment.",
+			"The lens can be modded to reduce minimum focus distance, barrel glow from light sources, and overall sharpness: https://www.youtube.com/playlist?list=PLAznI2VjZXIj0xNVzyMDR8_yv5j-bINlY"
+		],
+		"shotWith": [
+			["youtube", "Tba5qm_rjE8"]
+		]
+	},
+
+	"aa0e47f7-dc73-4fb4-8c51-8853fc5170dd": {
+		"title": "Schneider ES Cinelux 2x",
+		"titleImg": "title.jpg",
+		"stretch": 2,
+		"focusType": "Double Focus",
+		"tkLens": 70,
+		"minFocus": 1.5,
+		"avgPrice": 350,
+		"epn": "https://goo.gl/MrKiLa",
+		"weight": 450,
+		"length": 100,
+		"frontGlass": 53,
+		"rearGlass": 58,
+		"filterThreads": 0,
+		"rearThreads": 0,
+		"manufacturer": "Schneider",
+		"alias": [],
+		"review": "https://www.youtube.com/watch?v=S71bxtl8X_g",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157675191286376",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Excellent image quality, sharp from edge to edge"
+		],
+		"cons": [
+			"This adapter doesn't have a focus ring, you focus using the little screws on the front of the lens, which makes it hard to work with, if focusing is needed",
+			"Modern coatings end up muting flares"
+		],
+		"obs": [
+			["To Filter", "Needs front clamp."],
+			["To Taking Lens", "Needs clamp."],
+			["Lens Support", "Canon Lens Collar for the 100mm Macro fits perfectly around it."],
+			"There are a few versions of this lens, some with a lip over the optics which is not the best to work with.",
+			"This anamorphic is the best fit for the FM Lens, fitting inside of it snuggly and allowing for single focus operation."
+		],
+		"shotWith": [
+			["youtube", "4XXB67Kdf0U"]
+		]
+	},
+
+	"a96b6489-3816-4c99-93d7-a97e91dc65b9": {
+		"title": "Aivascope NC 1.75x",
+		"titleImg": "title.jpg",
+		"stretch": 1.75,
+		"focusType": "Fixed Focus",
+		"tkLens": 50,
+		"minFocus": 4,
+		"avgPrice": 600,
+		"epn": "https://goo.gl/J4W3uA",
+		"weight": 150,
+		"length": 42.5,
+		"frontGlass": 36,
+		"rearGlass": 23,
+		"filterThreads": 52,
+		"rearThreads": 52,
+		"manufacturer": "Valdas Misevicius",
+		"alias": [
+			"Baby Hypergonar Remake"
+		],
+		"review": 0,
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157692805648964",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Gorgeous and strong yellow flares",
+			"Small and light, has its own single focus solution, the Focuser 8, which still keeps the setup compact"
+		],
+		"cons": [
+			"Isn't really sharp when wide open, achieving best performance on apertures slower than f/4",
+			"Doesn't love big sensors, designed for S35 or MFT",
+			"Shows lots of mumps on the sides when paired with wider lenses (around 50mm on Full Frame)."
+		],
+		"obs": [
+			["To Filter", "52mm Standard threads."],
+			["To Taking Lens", "52mm Standard threads."],
+			["Lens Support", "None"],
+			"Valdas makes the Focuser 8, which is a small single focus solution which works super well with the Aivascope."
+		],
+		"shotWith": []
+	},
+
+	"118b763e-e897-456e-a813-68d58fa48e53": {
+		"title": "Sankor New Anamorphic Type-5e",
+		"titleImg": "title.jpg",
+		"stretch": 2,
+		"focusType": "Double Focus",
+		"tkLens": 65,
+		"minFocus": 1.5,
+		"avgPrice": 350,
+		"epn": "https://goo.gl/FM8jqZ",
+		"weight": 585,
+		"length": 85,
+		"frontGlass": 59,
+		"rearGlass": 51.5,
+		"filterThreads": 0,
+		"rearThreads": 0,
+		"manufacturer": "Sankor",
+		"alias": [],
+		"review": 0,
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157692805648994",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Unusual green flares.",
+			"Sharp across the frame, has a lot of similarities with the Isco Ultra Star but makes not-so-clean-looking footage."
+		],
+		"cons": [
+			"Displays strong veiling glare when pointed straight at light sources."
+		],
+		"obs": [
+			["To Filter", "Requires front clamp."],
+			["To Taking Lens", "Requires clamp."],
+			["Lens Support", "None"],
+			"This is a very uncommon adapter, with very little information about it."
+		],
+		"shotWith": []
+	},
+
+	"37336aed-ef3e-40cc-8b70-2e8ef2da9b4f": {
+		"title": "Moondog Labs 1.33x iPhone Anamorphic Adapter",
+		"titleImg": "title.jpg",
+		"stretch": 1.33,
+		"focusType": "Fixed Focus",
+		"tkLens": "?",
+		"minFocus": 1.5,
+		"avgPrice": 350,
+		"epn": "https://goo.gl/HqpXGP",
+		"weight": 48,
+		"length": 15,
+		"frontGlass": 30,
+		"rearGlass": 10,
+		"filterThreads": 0,
+		"rearThreads": 0,
+		"manufacturer": "Moondog Labs",
+		"alias": [],
+		"review": "https://www.youtube.com/watch?v=kWjR9vg3l6c",
+		"galleryLink": "https://www.flickr.com/photos/ferradans/albums/72157691842910741",
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Only anamorphic adapter designed to work with phones.",
+			"Small and light, makes it carrying it around an easy task",
+			"Streak flares are strong and blend well with the footage",
+			"There's no way to misalign it",
+			"Doesn't seem to degrade image quality"
+		],
+		"cons": [
+			"Makes the phone a bit cumbersome when mounted.",
+			"Locking mechanism isn't super sturdy, so lens can slip off phone"
+		],
+		"obs": [
+			["To Filter", "None"],
+			["To Taking Lens", "None"],
+			["Lens Support", "None"],
+			"Every iPhone has a different build so you can't buy one of them and upgrade your phone without switching the lens too.",
+			"There's a version of this adapter with 37mm rear threads."
+		],
+		"shotWith": []
+	},
+
+	"54d8fa11-0f91-487a-9016-b22f68b39faf": {
+		"title": "B&L 35mm Cinemascope Projection Attachment",
+		"titleImg": "title.jpg",
+		"stretch": 2,
+		"focusType": "Fixed Focus",
+		"tkLens": 85,
+		"minFocus": 3,
+		"avgPrice": 200,
+		"epn": "https://goo.gl/WwiK2k",
+		"weight": 1630,
+		"length": "?",
+		"frontGlass": 81,
+		"rearGlass": 64,
+		"filterThreads": 0,
+		"rearThreads": 0,
+		"manufacturer": "Bausch & Lomb",
+		"alias": [
+			"B&L",
+			"Galileo Anamorfico"
+		],
+		"review": 0,
+		"galleryLink": 0,
+		"galleryImg": "photo.jpg",
+		"pros": [
+			"Sharp edge to edge",
+			"Affordable"
+		],
+		"cons": [
+			"Very large",
+			"Very heavy",
+			"Lens coating can degrade and yellow due to age",
+			"Lens rings can get stuck in place due to age"
+		],
+		"obs": [
+			["To Filter", "Unknown"],
+			["To Taking Lens", "Extra Large clamp needed."],
+			["Lens Support", "B&L owners have improvised mounts using 15mm lens supports, PVC pipe, extension tubes, and hardware clamps."],
+			"The lens coating produces respectable but not exceptional flares.",
+			"Turning the ring at the front changes the distance between the two cylindrical lenses inside. This does not affect the focus, instead it affects the anamorphic ratio.",
+			"The locking ring (silver or red) must be tightened/loosened with the distance ring. If rings are stuck due to sediment and age, it may require a tool like a strap wrench to loosen.",
+			"B&Ls have either a black body with a silver locking ring, or a silver body with a red locking ring. The black ones were the later models, and it is reported their coatings do not yellow/age as quickly as the earlier models.  Discoloration over time is inherent due to the B&L coating manufacture, exacerbated if the lens was used with a xenon projection lamp.",
+			"The date the elements were ground is stamped on the inside edge of the front element, if you hold lens at a right angle and observe the element’s edge it is usually faintly visible.",
+			"Several users have modified their B&L according to this hack which involves cutting the housing. While this reduces weight and allows taking lenses with shorter focal lengths, there are several drawbacks:",
+			"Re-attaining alignment between elements is imprecise and can result in focus issues",
+			"The shorter housing results in pronounced image curvature/barrel distortions",
+			"The mod is irreversible",
+			"There is risk of damaging the elements or rendering the lens unusable",
+			"Information about disassembly can be found here: http://www.film-tech.com/ubb/f1/t004203.html"
+		],
+		"shotWith": [
+			["vimeo", "97342388"],
+			["vimeo", "72174387"],
+			["vimeo", "35465091"],
+			["vimeo", "22809915"],
+			["vimeo", "65532824"],
+			["vimeo", "91085883"],
+			["youtube", "watch?v=K1wAJ8TXA1Y"]
+		]
+	}
+
+}

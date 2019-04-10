@@ -4,14 +4,15 @@
   "private": true,
   "dependencies": {
     "firebase": "^5.5.9",
+    "firebase-admin": "^7.0.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-redux": "^5.1.0",
-    "react-redux-firebase": "^2.2.3",
+    "react-redux-firebase": "^2.2.6",
     "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.5",
     "redux": "^4.0.1",
-    "redux-firestore": "^0.6.0",
+    "redux-firestore": "^0.6.4",
     "redux-thunk": "^2.3.0"
   },
   "scripts": {

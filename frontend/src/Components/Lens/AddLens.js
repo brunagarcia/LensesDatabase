@@ -200,5 +200,5 @@ const mapDispatchToProps = (dispatch) => {
   }
 
 }
-
+//null because there is no mapStateToProps 
 export default connect(null, mapDispatchToProps)(AddLens)

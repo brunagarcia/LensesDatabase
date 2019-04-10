@@ -1,7 +1,8 @@
 import React from 'react'
 import LensSummary from './LensSummary'
 
-const LensList = ({ lenses }) => {
+const LensList = ({ lenses } ) => {
+  console.log("list")
   console.log(lenses)
   return (
     <div className="lens section">
