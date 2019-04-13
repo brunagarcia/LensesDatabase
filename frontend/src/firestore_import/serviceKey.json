@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lensyclopedia-786de",
+  "private_key_id": "5dd25e2413a00710aec4dbfaecf622144320fcb8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCejhQmexb3hQbn\nmEktTw34iC3Kuz6UpJHJb8gpTWXHfsRDCG7zfQAzeZeK+mKs+pl9HS4ohz9Alt71\nFph69b1w22DeOB8Nbdg++dGn9Njy5pGR+Ab8C3F6OCYnGbaQoNTKAjsu8jRtZX6R\nImhbHyDGaduBzfgSoulWMG6Jwi9ix9wWAW7mBRilkzNQuDkUmAOyI8D8y5F0HK9c\n98uhqPgQucTFhW8GWLqSaVHXk/XBNsy8LF2Vy1OY6MSCu/KUNxKNeTGJu0amgPcU\ntLbNdK9/qyuwALtoh1Jh8nXFEp1Z3Eadqr2WRGu0whl1yILRxqpQ0rxzqUBwcAk6\nP57kDe69AgMBAAECggEAE0W10U+Y5RE4W6I5EtbPHex/lGraGns+dTuvGsYbnvob\npQI7akFBawBWmUACCoCTc4++cpKt743nH+dVNWz1T+h6h8hOjfVSGaWIBGBQloXM\nH/AD+VLywiZdDNelR0MlWkCXLQens7xoe/+wq5LHCxcG5WpBwxImRqGwbfI6jEkJ\nvKYJRyztNWkre4Pmsv6nswaj2Flss+1DK/nKf+WOO6a3t774ba5VSWm1iIf5RaGA\n9M7M77qiZVZ1xtzrQcNXUe9xrpdJLeMiAdMXG9OLbHFblZxA23fZinqiZCLC7ZU9\nCiERkLOzXFxtHlqdQnfgirIvr1Z8MOIXJoehU/ZlAQKBgQDUsPe16Tz1YeDcR/6Y\nbmBowqHuUqt9XaFfTio0Wvl9zpDdQoXVPoUT9XAw3HXkXetY8V6wGP0TuRm1NnF2\nynw2Jg2QLPqUaN1lYppK3InyRB+gE84OtcPoQ8Z7HdV/WyIsgnnzCgfBp3etV3h9\nnKs4WTXTT5GKqT3GdB9KlyUfoQKBgQC+1yFQLuiE4nBuaFGw4bDNVgMMWZ1QI8mP\n59KWxZ+InelLUCLhjYGr5EjMEYAXP9r0leoYOmzfJN/990yqPE9MEdkqAYSbtRzb\nIRFUQlR+HePbFb5jsWQQo5jk53mQY+M3f9bBG2WasEtWwTB5gdAVpw4l1IRYy47Q\nJ6r4mIDpnQKBgFe7W6JMwBlTs2YJyGnl9Zyg1ByzOwuuSHdAjcYk1I7hWv35h6zr\nagdOkWWGOpblasO4ZF9tH084ZfNKrsjaQxwu3B9hfkcjbld4sb45dClbklP8d123\n+kRfWIrGRp+O3uzPMTBgLczioEn/L7NYoYPPwJUWWCmDH/kxQwsIh4ahAoGAfpOZ\n2OED//9gqxot9K/84HSIGQznNlxGOFh+aNoy8h4qunUwbYG53BTR4+hHmSQVSdyV\nI/S8eVSv7Ha2NsNBpSbBbwcKuWvq87x/De/gsrWIh6toWB80S4T2x/xvuMFH12vH\nONW/ElaT4brJOA5Nwc7Hp3fJQEvjMVTeJXyhJFECgYAWdFnfCvnrRQGEZf15YFaE\nOV/JIYm7rC+/L/q6ESOZdBLk/kmQrEUCNc/CTU1J17npNoIvTbCqWVAJQltyDot2\n07qBp/2N0Xz/JxlJEOk4i8YG72ZznK18ZfKhf+oYa31r2RN7W1st11tYMejdqDgG\nzo1w0pTjK3init1lB5mwJg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "lensyclopedia-786de@appspot.gserviceaccount.com",
+  "client_id": "107250142835876325742",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lensyclopedia-786de%40appspot.gserviceaccount.com"
+}
