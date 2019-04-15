@@ -10,9 +10,10 @@ const Navbar = () => {
     <div>
       <nav className="nav-wrapper grey darken-3">
         <div className="container">
-          <AppBar>Material ui core</AppBar>
+          <AppBar>
           <Link to='/' className="brand-logo">Lens-yclopedia</Link>
-          <SignInLinks></SignInLinks>
+          <SignInLinks> </SignInLinks>
+          </AppBar>
           {/* <SignOutLinks></SignOutLinks> */}
         </div>
      </nav>
