@@ -14,6 +14,9 @@ const mapStateToProps = (state, props) => {
   }
 }
 
+
+//testing the commit
+
 // const mapStateToProps = (state, props) => {
 //   const obj = 
 //   console.log(state)
