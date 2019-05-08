@@ -2,6 +2,8 @@ import React, { Component } from 'react'
 import { connect } from 'react-redux'
 import { addLens } from '../../Store/Actions/lensActions'
 
+//Create a constructor Object to the state maybe ??? 
+
 export class AddLens extends Component {
   state = {
     title: '',
