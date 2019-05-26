@@ -13,8 +13,6 @@ const mapStateToProps = (state, props) => {
      lenses: state.database.ordered.lenses
   }
 }
-
-
 //testing the commit
 
 // const mapStateToProps = (state, props) => {
