@@ -1,75 +1,28 @@
-import React from 'react'
+import React from "react";
 import { Link } from "react-router-dom";
+/** @jsx jsx */
+import { css, jsx } from "@emotion/core";
 
-// import { makeStyles } from '@material-ui/core/styles';
-// import Card from '@material-ui/core/Card';
-// import CardActionArea from '@material-ui/core/CardActionArea';
-// import CardActions from '@material-ui/core/CardActions';
-// import CardContent from '@material-ui/core/CardContent';
-// import CardMedia from '@material-ui/core/CardMedia';
-// import Button from '@material-ui/core/Button';
-// import Typography from '@material-ui/core/Typography';
-
-
-
-
-
-// const useStyles = makeStyles({
-//   card: {
-//     maxWidth: 345,
-//   },
-//   media: {
-//     height: 140,
-//   },
-// });
-
-// function MediaCard() {
-//   const classes = useStyles();
-
-//   return (
-//     <Card className={classes.card}>
-//       <CardActionArea>
-//         <CardMedia
-//           className={classes.media}
-//           image="/static/images/cards/contemplative-reptile.jpg"
-//           title="Contemplative Reptile"
-//         />
-//         <CardContent>
-//           <Typography gutterBottom variant="h5" component="h2">
-//             Lizard
-//           </Typography>
-//           <Typography variant="body2" color="textSecondary" component="p">
-//             Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging
-//             across all continents except Antarctica
-//           </Typography>
-//         </CardContent>
-//       </CardActionArea>
-//       <CardActions>
-//         <Button size="small" color="primary">
-//           Share
-//         </Button>
-//         <Button size="small" color="primary">
-//           Learn More
-//         </Button>
-//       </CardActions>
-//     </Card>
-//   );
-// }
-
-// export default MediaCard;
-
-const LensSummary = ({lens}) => {
+const LensSummary = ({ lens }) => {
   return (
-    <div className="card z-depth-0 lensSummary">
-      <div className="card content grey-text-darken-3">
-      <Link to={`/lenses/${lens.id}`}><span className="card-title"> {lens.title} </span></Link>
+    <div
+      css={css`
+        color: grey;
+        padding: 32px;
+        font-size: 24px;
+        border: 1px;
+      `}
+    >
+        <Link to={`/lenses/${lens.id}`}>
+          <span> {lens.title} </span>
+        </Link>
         <p>Min Focus: {lens.minFocus}</p>
         <p>Focus Type: {lens.focusType}</p>
-        <p>Average Price:  <strong>$ {lens.avgPrice}</strong></p>
-      </div>
+        <p>
+          Average Price: <strong>$ {lens.avgPrice}</strong>
+        </p>
     </div>
-  )
-}
+  );
+};
 
-export default LensSummary
-
+export default LensSummary;

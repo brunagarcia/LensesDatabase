@@ -1,16 +1,17 @@
 import React from 'react'
 import LensSummary from './LensSummary'
+/** @jsx jsx */
+import { css, jsx } from '@emotion/core'
 
 const LensList = ({ lenses } ) => {
   console.log("list")
   console.log(lenses)
   return (
-    <div className="lens section">
-      { lenses && lenses.map(lens => {
-        return(
-          <LensSummary lens={lens} key={lens.id} />
-        )
-      })}
+    <div css={css`
+       display: grid;
+       grid-template-columns: repeat(4, 1fr);
+    `}>
+    { lenses && lenses.map(lens => <LensSummary lens={lens} key={lens.id} />)}
     </div>
   )
 
